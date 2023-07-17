@@ -4,7 +4,7 @@ SWEP.Spawnable = true
 AddCSLuaFile()
 
 // names and stuff
-SWEP.PrintName = "Louisville Slugger TPX Omaha"
+SWEP.PrintName = "Louisville Slugger TPX"
 SWEP.Category = "Tactical RP (Special)"
 
 SWEP.SubCatTier = "9Special"
@@ -12,7 +12,7 @@ SWEP.SubCatType = "8Melee Weapon"
 
 SWEP.Description = "Aluminum baseball bat, good for hitting home runs or cracking skulls.  Boston accent and double jump not included!"
 
-SWEP.ViewModel = "models/weapons/tacint_melee/v_bowie.mdl"
+SWEP.ViewModel = "models/weapons/tacint_melee/v_bat.mdl"
 SWEP.WorldModel = "models/weapons/tacint/w_knife2.mdl"
 
 SWEP.NoRanger = true
@@ -36,7 +36,7 @@ SWEP.Melee2AttackTime = 0.7
 SWEP.Melee2Range = 96
 SWEP.Melee2AttackMissTime = 0.9
 
-SWEP.MeleeDamageType = DMG_SLASH
+SWEP.MeleeDamageType = DMG_CLUB
 
 SWEP.MeleeThrowTime = 1
 SWEP.MeleeThrowTimeWait = 0.2
@@ -73,7 +73,7 @@ SWEP.HoldTypeSprint = "knife"
 
 SWEP.GestureShoot = ACT_HL2MP_GESTURE_RANGE_ATTACK_PISTOL
 SWEP.GestureReload = ACT_HL2MP_GESTURE_RELOAD_PISTOL
-SWEP.GestureBash = ACT_HL2MP_GESTURE_RANGE_ATTACK_KNIFE
+SWEP.GestureBash = ACT_HL2MP_GESTURE_RANGE_ATTACK_MELEE
 SWEP.GestureBash2 = ACT_HL2MP_GESTURE_RANGE_ATTACK_MELEE
 
 SWEP.MidAirSpreadPenalty = 0
@@ -99,7 +99,7 @@ SWEP.HolsterAng = Angle(-90, -90, 15)
 
 // sounds
 
-local path = "tacrp/weapons/knife/"
+local path = "tacint_shark/weapons/melee/"
 
 SWEP.AnimationTranslationTable = {
     ["deploy"] = "deploy",
@@ -108,27 +108,13 @@ SWEP.AnimationTranslationTable = {
     ["meleethrow"] = {"knifethrow"},
 }
 
-SWEP.Sound_MeleeHit = {
-    path .. "/scrape_metal-1.wav",
-    path .. "/scrape_metal-2.wav",
-    path .. "/scrape_metal-3.wav",
-}
+SWEP.Sound_MeleeHit = path .. "bat_hit.wav"
 
-SWEP.Sound_MeleeHitBody = {
-    path .. "/flesh_hit-1.wav",
-    path .. "/flesh_hit-2.wav",
-    path .. "/flesh_hit-3.wav",
-    path .. "/flesh_hit-4.wav",
-    path .. "/flesh_hit-5.wav",
-}
+SWEP.Sound_MeleeHitBody = path .. "bat_hit.wav"
+
 
 SWEP.Sound_MeleeSwing = {
-    path .. "swing-1.wav",
-    path .. "swing-2.wav",
-    path .. "swing-3.wav",
-    path .. "swing-4.wav",
-    path .. "swing-5.wav",
-    path .. "swing-6.wav",
+	"weapons/iceaxe/iceaxe_swing1.wav"
 }
 
 // attachments
