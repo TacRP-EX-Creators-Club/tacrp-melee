@@ -12,7 +12,7 @@ SWEP.SubCatType = "8Melee Weapon"
 
 SWEP.Description = "An iconic game controller complete with an IR pointer and motion controls.  Careful!  Forgetting to wear the wrist strap could lead to injury."
 
-SWEP.ViewModel = "models/weapons/tacint/v_knife3.mdl"
+SWEP.ViewModel = "models/weapons/tacint_melee/v_wiimote.mdl"
 SWEP.WorldModel = "models/weapons/tacint/w_knife2.mdl"
 
 SWEP.NoRanger = true
@@ -100,6 +100,7 @@ SWEP.HolsterAng = Angle(-90, -90, 15)
 // sounds
 
 local path = "tacrp/weapons/knife/"
+local path1 = "tacint_shark/weapons/melee/knife_hit"
 
 SWEP.AnimationTranslationTable = {
     ["deploy"] = "deploy",
@@ -109,17 +110,18 @@ SWEP.AnimationTranslationTable = {
 }
 
 SWEP.Sound_MeleeHit = {
-    path .. "/scrape_metal-1.wav",
-    path .. "/scrape_metal-2.wav",
-    path .. "/scrape_metal-3.wav",
+    path1 .. "1.wav",
+    path1 .. "2.wav",
+    path1 .. "3.wav",
+    path1 .. "4.wav",
+
 }
 
 SWEP.Sound_MeleeHitBody = {
-    path .. "/flesh_hit-1.wav",
-    path .. "/flesh_hit-2.wav",
-    path .. "/flesh_hit-3.wav",
-    path .. "/flesh_hit-4.wav",
-    path .. "/flesh_hit-5.wav",
+    path1 .. "1.wav",
+    path1 .. "2.wav",
+    path1 .. "3.wav",
+    path1 .. "4.wav",
 }
 
 SWEP.Sound_MeleeSwing = {
