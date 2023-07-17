@@ -4,13 +4,13 @@ SWEP.Spawnable = true
 AddCSLuaFile()
 
 // names and stuff
-SWEP.PrintName = "Combat Knife"
+SWEP.PrintName = "Tracker Knife"
 SWEP.Category = "Tactical RP (Special)"
 
 SWEP.SubCatTier = "9Special"
 SWEP.SubCatType = "8Melee Weapon"
 
-SWEP.Description = "An oversized knife with a solid steel blade.  Its serrated edge allows it to cut deep but it's also quite hefty."
+SWEP.Description = "Oversized gut knife designed for multiple hunting utilities, one of which is, conveniently, slicing open human targets."
 
 SWEP.ViewModel = "models/weapons/tacint/v_knife3.mdl"
 SWEP.WorldModel = "models/weapons/tacint/w_knife2.mdl"
