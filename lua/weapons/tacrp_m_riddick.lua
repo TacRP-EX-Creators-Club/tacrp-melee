@@ -12,7 +12,7 @@ SWEP.SubCatType = "8Melee Weapon"
 
 SWEP.Description = "Distinctive curved blade resembling a claw, a favorite of a notorious Furyan mercenary."
 
-SWEP.ViewModel = "models/weapons/tacint/v_knife3.mdl"
+SWEP.ViewModel = "models/weapons/tacint_melee/v_riddick.mdl"
 SWEP.WorldModel = "models/weapons/tacint/w_knife2.mdl"
 
 SWEP.NoRanger = true
