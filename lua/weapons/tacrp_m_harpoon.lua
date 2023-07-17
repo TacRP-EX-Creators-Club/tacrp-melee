@@ -4,13 +4,13 @@ SWEP.Spawnable = true
 AddCSLuaFile()
 
 // names and stuff
-SWEP.PrintName = "Tactical Knife"
+SWEP.PrintName = "Extrema Ratio Harpoon"
 SWEP.Category = "Tactical RP (Special)"
 
 SWEP.SubCatTier = "9Special"
 SWEP.SubCatType = "8Melee Weapon"
 
-SWEP.Description = "Large knife with a custom pattern on the blade.  Was extremely popular in the 90's and holds a certain nostalgic charm to both Ts and CTs alike."
+SWEP.Description = "Thin-bladed knife with serrations on the back edge for extra deep penetration."
 
 SWEP.ViewModel = "models/weapons/tacint/v_knife3.mdl"
 SWEP.WorldModel = "models/weapons/tacint/w_knife2.mdl"
