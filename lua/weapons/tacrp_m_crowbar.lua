@@ -36,7 +36,7 @@ SWEP.Melee2AttackTime = 0.7
 SWEP.Melee2Range = 96
 SWEP.Melee2AttackMissTime = 0.9
 
-SWEP.MeleeDamageType = DMG_SLASH
+SWEP.MeleeDamageType = DMG_CLUB
 
 SWEP.MeleeThrowTime = 1
 SWEP.MeleeThrowTimeWait = 0.2
@@ -73,7 +73,7 @@ SWEP.HoldTypeSprint = "knife"
 
 SWEP.GestureShoot = ACT_HL2MP_GESTURE_RANGE_ATTACK_PISTOL
 SWEP.GestureReload = ACT_HL2MP_GESTURE_RELOAD_PISTOL
-SWEP.GestureBash = ACT_HL2MP_GESTURE_RANGE_ATTACK_KNIFE
+SWEP.GestureBash = ACT_HL2MP_GESTURE_RANGE_ATTACK_MELEE
 SWEP.GestureBash2 = ACT_HL2MP_GESTURE_RANGE_ATTACK_MELEE
 
 SWEP.MidAirSpreadPenalty = 0
