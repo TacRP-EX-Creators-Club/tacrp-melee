@@ -12,7 +12,7 @@ SWEP.SubCatType = "8Melee Weapon"
 
 SWEP.Description = "Common craftsman tool for inserting nails into wood or securing objects in place.  Naturally makes for a great melee weapon."
 
-SWEP.ViewModel = "models/weapons/tacint/v_knife3.mdl"
+SWEP.ViewModel = "models/weapons/tacint_melee/v_hamma.mdl"
 SWEP.WorldModel = "models/weapons/tacint/w_knife2.mdl"
 
 SWEP.NoRanger = true
