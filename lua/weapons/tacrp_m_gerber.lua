@@ -10,9 +10,9 @@ SWEP.Category = "Tactical RP (Special)"
 SWEP.SubCatTier = "9Special"
 SWEP.SubCatType = "8Melee Weapon"
 
-SWEP.Description = "Pocket-sized knife for survival situations, such as gutting fish, carving wood or gutting and carving an enemy."
+SWEP.Description = "Compact knife for survival situations, such as gutting fish, carving wood or gutting and carving an enemy."
 
-SWEP.ViewModel = "models/weapons/tacint_melee/v_bowie.mdl"
+SWEP.ViewModel = "models/weapons/tacint_melee/v_gerber.mdl"
 SWEP.WorldModel = "models/weapons/tacint/w_knife2.mdl"
 
 SWEP.NoRanger = true
