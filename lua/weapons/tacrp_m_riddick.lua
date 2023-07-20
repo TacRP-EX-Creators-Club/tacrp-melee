@@ -10,7 +10,7 @@ SWEP.Category = "Tactical RP (Special)"
 SWEP.SubCatTier = "9Special"
 SWEP.SubCatType = "8Melee Weapon"
 
-SWEP.Description = "Distinctive curved blade resembling a claw, a favorite of a notorious Furyan mercenary."
+SWEP.Description = "Distinctive curved blade resembling a claw; a replica of a screen prop from a movie that's more well-remembered for its superb tie-in video game."
 
 SWEP.ViewModel = "models/weapons/tacint_melee/v_riddick.mdl"
 SWEP.WorldModel = "models/weapons/tacint/w_knife2.mdl"
