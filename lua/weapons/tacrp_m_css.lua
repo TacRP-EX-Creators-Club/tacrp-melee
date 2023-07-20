@@ -4,15 +4,15 @@ SWEP.Spawnable = true
 AddCSLuaFile()
 
 // names and stuff
-SWEP.PrintName = "Tactical Knife"
+SWEP.PrintName = "The Classic"
 SWEP.Category = "Tactical RP (Special)"
 
 SWEP.SubCatTier = "9Special"
 SWEP.SubCatType = "8Melee Weapon"
 
-SWEP.Description = "Large knife with a custom pattern on the blade.  Was extremely popular in the 90's and holds a certain nostalgic charm to both Ts and CTs alike."
+SWEP.Description = "The one that started it all.  Before people were spending ludicrous amounts of money on Doppler and Case Hardened patterns, Ts and CTs alike favored this slick, iconic design."
 
-SWEP.ViewModel = "models/weapons/tacint/v_knife3.mdl"
+SWEP.ViewModel = "models/weapons/tacint_melee/v_cssknife.mdl"
 SWEP.WorldModel = "models/weapons/tacint/w_knife2.mdl"
 
 SWEP.NoRanger = true
