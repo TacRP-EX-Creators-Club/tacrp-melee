@@ -1,5 +1,5 @@
 SWEP.Base = "tacrp_base"
-SWEP.Spawnable = true
+SWEP.Spawnable = false -- Secret weapon.  If you're reading this, you're either a dev, a Github user or nosy workshop user who decompiled the addon.  Type "give tacrp_m_wiimote" in the console to get this weapon ingame.
 
 AddCSLuaFile()
 
@@ -10,7 +10,7 @@ SWEP.Category = "Tactical RP (Special)"
 SWEP.SubCatTier = "9Special"
 SWEP.SubCatType = "8Melee Weapon"
 
-SWEP.Description = "An iconic game controller complete with an IR pointer and motion controls.  Careful!  Forgetting to wear the wrist strap could lead to injury."
+SWEP.Description = "An iconic game controller with revolutionary motion controls.  \nCareful!  Neglecting to wear the wrist strap could lead to injury."
 
 SWEP.ViewModel = "models/weapons/tacint_melee/v_wiimote.mdl"
 SWEP.WorldModel = "models/weapons/tacint/w_knife2.mdl"
