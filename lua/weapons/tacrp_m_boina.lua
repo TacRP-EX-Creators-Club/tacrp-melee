@@ -10,9 +10,9 @@ SWEP.Category = "Tactical RP (Special)"
 SWEP.SubCatTier = "9Special"
 SWEP.SubCatType = "8Melee Weapon"
 
-SWEP.Description = "Sturdy camping knife.  'Boina verde' is Spanish for 'green beret;' an attempt to market the knife as 'tactical.'"
+SWEP.Description = "Sturdy, oversized survival knife.  'Boina verde' is Spanish for 'green beret;' an attempt to market the knife as 'tactical.'"
 
-SWEP.ViewModel = "models/weapons/tacint/v_knife3.mdl"
+SWEP.ViewModel = "models/weapons/tacint_melee/v_boina.mdl"
 SWEP.WorldModel = "models/weapons/tacint/w_knife2.mdl"
 
 SWEP.NoRanger = true
