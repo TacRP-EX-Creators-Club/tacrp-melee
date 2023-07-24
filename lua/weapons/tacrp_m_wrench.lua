@@ -12,7 +12,7 @@ SWEP.SubCatType = "8Melee Weapon"
 
 SWEP.Description = "Sturdy wrench designed for tightening water and gas pipes.  All-iron construction makes it quite the blunt weapon."
 
-SWEP.ViewModel = "models/weapons/tacint/v_knife3.mdl"
+SWEP.ViewModel = "models/weapons/tacint_melee/v_wrench.mdl"
 SWEP.WorldModel = "models/weapons/tacint/w_knife2.mdl"
 
 SWEP.NoRanger = true
@@ -100,6 +100,7 @@ SWEP.HolsterAng = Angle(-90, -90, 15)
 // sounds
 
 local path = "tacrp/weapons/knife/"
+local path1 = "tacint_shark/weapons/melee/knife_hit"
 
 SWEP.AnimationTranslationTable = {
     ["deploy"] = "deploy",
@@ -109,17 +110,17 @@ SWEP.AnimationTranslationTable = {
 }
 
 SWEP.Sound_MeleeHit = {
-    path .. "/scrape_metal-1.wav",
-    path .. "/scrape_metal-2.wav",
-    path .. "/scrape_metal-3.wav",
+	"physics/wood/wood_plank_impact_hard1.wav",
+	"physics/wood/wood_plank_impact_hard2.wav",
+	"physics/plastic/plastic_box_impact_hard2.wav",
+	"physics/plastic/plastic_box_impact_hard3.wav",
 }
 
 SWEP.Sound_MeleeHitBody = {
-    path .. "/flesh_hit-1.wav",
-    path .. "/flesh_hit-2.wav",
-    path .. "/flesh_hit-3.wav",
-    path .. "/flesh_hit-4.wav",
-    path .. "/flesh_hit-5.wav",
+    path1 .. "1.wav",
+    path1 .. "2.wav",
+    path1 .. "3.wav",
+    path1 .. "4.wav",
 }
 
 SWEP.Sound_MeleeSwing = {

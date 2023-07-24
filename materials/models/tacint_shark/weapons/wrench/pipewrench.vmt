@@ -1,0 +1,6 @@
+VertexLitGeneric
+{
+	"$basetexture"	"models\tacint_shark\weapons\wrench\pipewrench"
+	"$bumpmap"	"models\tacint_shark\weapons\wrench\pipewrench_normal"
+
+}
