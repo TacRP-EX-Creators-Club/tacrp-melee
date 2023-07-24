@@ -78,7 +78,7 @@ SWEP.GestureBash2 = ACT_HL2MP_GESTURE_RANGE_ATTACK_MELEE
 
 SWEP.MidAirSpreadPenalty = 0
 
-SWEP.PassiveAng = Angle(-15.5, 0, 5)
+SWEP.PassiveAng = Angle(-7.5, 0, 5)
 SWEP.PassivePos = Vector(3, 0, -10)
 
 SWEP.SprintAng = Angle(0, 0, 0)
