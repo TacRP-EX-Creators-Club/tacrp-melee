@@ -68,12 +68,12 @@ SWEP.Sway = 0
 
 // hold types
 
-SWEP.HoldType = "knife"
+SWEP.HoldType = "melee"
 SWEP.HoldTypeSprint = "knife"
 
 SWEP.GestureShoot = ACT_HL2MP_GESTURE_RANGE_ATTACK_PISTOL
 SWEP.GestureReload = ACT_HL2MP_GESTURE_RELOAD_PISTOL
-SWEP.GestureBash = ACT_HL2MP_GESTURE_RANGE_ATTACK_KNIFE
+SWEP.GestureBash = ACT_HL2MP_GESTURE_RANGE_ATTACK_MELEE
 SWEP.GestureBash2 = ACT_HL2MP_GESTURE_RANGE_ATTACK_MELEE
 
 SWEP.MidAirSpreadPenalty = 0
