@@ -1,2 +1,2 @@
 # tacrp-melee
-Guns are for PUSSIES kill people by getting in their face n shit and STABBING them
+A pack of melee weapons for TacRP base, fleshing out the bladed and blunt options for beating or stabbing your opponent to death.
