@@ -13,7 +13,7 @@ SWEP.SubCatType = "8Melee Weapon"
 SWEP.Description = "All-purpose utility tool meant for prying things open but works pretty well as a bludgeon nonetheless.  \nNever leave work without one, you never know when you'll be caught in the middle of a resonance cascade!"
 
 SWEP.ViewModel = "models/weapons/tacint_melee/v_crowbar.mdl"
-SWEP.WorldModel = "models/weapons/w_crowbar.mdl"
+SWEP.WorldModel = "models/weapons/tacint_melee/w_crowbar.mdl"
 
 SWEP.NoRanger = true
 SWEP.NoStatBox = true

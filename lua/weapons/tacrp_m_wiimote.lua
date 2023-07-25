@@ -13,7 +13,7 @@ SWEP.SubCatType = "8Melee Weapon"
 SWEP.Description = "An iconic game controller with revolutionary motion controls.  \nCareful!  Neglecting to wear the wrist strap could lead to injury."
 
 SWEP.ViewModel = "models/weapons/tacint_melee/v_wiimote.mdl"
-SWEP.WorldModel = "models/weapons/tacint/w_knife2.mdl"
+SWEP.WorldModel = "models/weapons/tacint_melee/w_wiimote.mdl"
 
 SWEP.NoRanger = true
 SWEP.NoStatBox = true

@@ -13,7 +13,7 @@ SWEP.SubCatType = "8Melee Weapon"
 SWEP.Description = "Aluminum baseball bat, good for hitting home runs or cracking skulls.  Boston accent and double jump not included!"
 
 SWEP.ViewModel = "models/weapons/tacint_melee/v_bat.mdl"
-SWEP.WorldModel = "models/weapons/tacint/w_knife2.mdl"
+SWEP.WorldModel = "models/weapons/tacint_melee/w_bat.mdl"
 
 SWEP.NoRanger = true
 SWEP.NoStatBox = true

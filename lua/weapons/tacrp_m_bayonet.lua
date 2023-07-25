@@ -13,7 +13,7 @@ SWEP.SubCatType = "8Melee Weapon"
 SWEP.Description = "Military standard-issue knife that can be mounted on a weapon as a bayonet.  Nothing stopping you from using it like a normal knife, however."
 
 SWEP.ViewModel = "models/weapons/tacint_melee/v_bayonet.mdl"
-SWEP.WorldModel = "models/weapons/tacint/w_knife2.mdl"
+SWEP.WorldModel = "models/weapons/tacint_melee/w_bayonet.mdl"
 
 SWEP.NoRanger = true
 SWEP.NoStatBox = true

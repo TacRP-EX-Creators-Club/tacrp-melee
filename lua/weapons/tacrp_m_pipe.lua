@@ -13,7 +13,7 @@ SWEP.SubCatType = "8Melee Weapon"
 SWEP.Description = "Sturdy lead water pipe.  Despite not being designed for any kind of harm-doing, getting hit with one does quite a lot of harm."
 
 SWEP.ViewModel = "models/weapons/tacint_melee/v_pipe.mdl"
-SWEP.WorldModel = "models/weapons/tacint/w_knife2.mdl"
+SWEP.WorldModel = "models/weapons/tacint_melee/w_pipe.mdl"
 
 SWEP.NoRanger = true
 SWEP.NoStatBox = true

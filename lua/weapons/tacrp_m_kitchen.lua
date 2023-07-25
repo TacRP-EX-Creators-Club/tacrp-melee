@@ -13,7 +13,7 @@ SWEP.SubCatType = "8Melee Weapon"
 SWEP.Description = "Plain, simple kitchen knife.  Easy to acquire and adequately lethal, knives like these are popular among street gangs."
 
 SWEP.ViewModel = "models/weapons/tacint_melee/v_kitchen.mdl"
-SWEP.WorldModel = "models/weapons/tacint/w_knife2.mdl"
+SWEP.WorldModel = "models/weapons/tacint_melee/w_kitchen.mdl"
 
 SWEP.NoRanger = true
 SWEP.NoStatBox = true

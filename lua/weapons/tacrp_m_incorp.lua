@@ -13,7 +13,7 @@ SWEP.SubCatType = "8Melee Weapon"
 SWEP.Description = "Flashy flip knife with a premium stainless finish and woodgrain handle."
 
 SWEP.ViewModel = "models/weapons/tacint_melee/v_incorp.mdl"
-SWEP.WorldModel = "models/weapons/tacint/w_knife2.mdl"
+SWEP.WorldModel = "models/weapons/tacint_melee/w_incorp.mdl"
 
 SWEP.NoRanger = true
 SWEP.NoStatBox = true

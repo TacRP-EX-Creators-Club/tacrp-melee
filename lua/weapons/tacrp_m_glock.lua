@@ -13,7 +13,7 @@ SWEP.SubCatType = "8Melee Weapon"
 SWEP.Description = "A sturdy field knife with a firm grip, designed for use within the Austrian Jagdkommando. \nYes, this is the same Glock that makes pistols."
 
 SWEP.ViewModel = "models/weapons/tacint_melee/v_glock.mdl"
-SWEP.WorldModel = "models/weapons/tacint/w_knife2.mdl"
+SWEP.WorldModel = "models/weapons/tacint_melee/w_glock.mdl"
 
 SWEP.NoRanger = true
 SWEP.NoStatBox = true

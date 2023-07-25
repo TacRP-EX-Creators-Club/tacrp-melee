@@ -13,7 +13,7 @@ SWEP.SubCatType = "8Melee Weapon"
 SWEP.Description = "The one that started it all.  Before people were spending ludicrous amounts of money on Doppler and Case Hardened patterns, Ts and CTs alike favored this slick, iconic design."
 
 SWEP.ViewModel = "models/weapons/tacint_melee/v_cssknife.mdl"
-SWEP.WorldModel = "models/weapons/tacint/w_knife2.mdl"
+SWEP.WorldModel = "models/weapons/tacint_melee/w_cssknife.mdl"
 
 SWEP.NoRanger = true
 SWEP.NoStatBox = true

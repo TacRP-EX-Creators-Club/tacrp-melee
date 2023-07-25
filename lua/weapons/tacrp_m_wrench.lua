@@ -13,7 +13,7 @@ SWEP.SubCatType = "8Melee Weapon"
 SWEP.Description = "Sturdy wrench designed for tightening water and gas pipes.  All-iron construction makes it quite the blunt weapon."
 
 SWEP.ViewModel = "models/weapons/tacint_melee/v_wrench.mdl"
-SWEP.WorldModel = "models/weapons/tacint/w_knife2.mdl"
+SWEP.WorldModel = "models/weapons/tacint_melee/w_wrench.mdl"
 
 SWEP.NoRanger = true
 SWEP.NoStatBox = true

@@ -13,7 +13,7 @@ SWEP.SubCatType = "8Melee Weapon"
 SWEP.Description = "Modernized tomahawk designed for combat.  Deadly when thrown."
 
 SWEP.ViewModel = "models/weapons/tacint_melee/v_sog.mdl"
-SWEP.WorldModel = "models/weapons/tacint/w_knife2.mdl"
+SWEP.WorldModel = "models/weapons/tacint_melee/w_fasthawk.mdl"
 
 SWEP.NoRanger = true
 SWEP.NoStatBox = true
