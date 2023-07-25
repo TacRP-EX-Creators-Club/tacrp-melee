@@ -12,7 +12,7 @@ SWEP.SubCatType = "8Melee Weapon"
 
 SWEP.Description = "Oversized knife with a serrated edge and a curved handle, historically used by a disavowed spec ops unit during World War III."
 
-SWEP.ViewModel = "models/weapons/tacint/v_knife3.mdl"
+SWEP.ViewModel = "models/weapons/tacint_melee/v_knife3.mdl"
 SWEP.WorldModel = "models/weapons/tacint/w_knife2.mdl"
 
 SWEP.NoRanger = true
