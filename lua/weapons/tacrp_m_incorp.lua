@@ -26,15 +26,15 @@ SWEP.NPCUsable = false
 
 SWEP.PrimaryMelee = true
 
-SWEP.MeleeDamage = 40
-SWEP.MeleeAttackTime = 0.5
+SWEP.MeleeDamage = 30
+SWEP.MeleeAttackTime = 0.35
 SWEP.MeleeRange = 128
-SWEP.MeleeAttackMissTime = 0.65
+SWEP.MeleeAttackMissTime = 0.45
 
-SWEP.Melee2Damage = 65
-SWEP.Melee2AttackTime = 0.7
+SWEP.Melee2Damage = 55
+SWEP.Melee2AttackTime = 0.6
 SWEP.Melee2Range = 96
-SWEP.Melee2AttackMissTime = 0.9
+SWEP.Melee2AttackMissTime = 0.7
 
 SWEP.MeleeDamageType = DMG_SLASH
 
