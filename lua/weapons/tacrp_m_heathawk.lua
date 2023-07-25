@@ -1,19 +1,19 @@
 SWEP.Base = "tacrp_base"
-SWEP.Spawnable = os.date("%m-%d") == "04-01" or math.random() <= 0.01 -- Secret weapon.  If you're reading this, you're either a dev, a Github user or nosy workshop user who decompiled the addon.  Type "give tacrp_m_wiimote" in the console to get this weapon ingame.
+SWEP.Spawnable = true
 
 AddCSLuaFile()
 
 // names and stuff
-SWEP.PrintName = "Nintendo Wii Remote"
+SWEP.PrintName = "Heat Hawk"
 SWEP.Category = "Tactical RP (Special)"
 
 SWEP.SubCatTier = "9Special"
 SWEP.SubCatType = "8Melee Weapon"
 
-SWEP.Description = "An iconic game controller with revolutionary motion controls.  \nCareful!  Neglecting to wear the wrist strap could lead to injury."
+SWEP.Description = "Axe-shaped MS weapon scaled down to human size.\nThe original utilizes a superheated edge that cuts through metal like butter, but this replica only has a glowing sticker attached to a metal blade."
 
-SWEP.ViewModel = "models/weapons/tacint_melee/v_wiimote.mdl"
-SWEP.WorldModel = "models/weapons/tacint_melee/w_wiimote.mdl"
+SWEP.ViewModel = "models/weapons/tacint_extras/v_heathawk.mdl"
+SWEP.WorldModel = "models/weapons/tacint_extras/w_heathawk.mdl"
 
 SWEP.NoRanger = true
 SWEP.NoStatBox = true
@@ -26,20 +26,20 @@ SWEP.NPCUsable = false
 
 SWEP.PrimaryMelee = true
 
-SWEP.MeleeDamage = 30
-SWEP.MeleeAttackTime = 0.35
+SWEP.MeleeDamage = 65
+SWEP.MeleeAttackTime = 0.65
 SWEP.MeleeRange = 128
-SWEP.MeleeAttackMissTime = 0.45
+SWEP.MeleeAttackMissTime = 0.75
 
-SWEP.Melee2Damage = 55
-SWEP.Melee2AttackTime = 0.6
+SWEP.Melee2Damage = 80
+SWEP.Melee2AttackTime = 0.7
 SWEP.Melee2Range = 96
-SWEP.Melee2AttackMissTime = 0.7
+SWEP.Melee2AttackMissTime = 0.85
 
-SWEP.MeleeDamageType = DMG_CLUB
+SWEP.MeleeDamageType = DMG_SLASH
 
-SWEP.MeleeThrowTime = 1
-SWEP.MeleeThrowTimeWait = 0.2
+SWEP.MeleeThrowTime = 1.5
+SWEP.MeleeThrowTimeWait = 0.6
 
 SWEP.Firemode = 0
 
@@ -68,8 +68,8 @@ SWEP.Sway = 0
 
 // hold types
 
-SWEP.HoldType = "knife"
-SWEP.HoldTypeSprint = "knife"
+SWEP.HoldType = "melee"
+SWEP.HoldTypeSprint = "melee"
 
 SWEP.GestureShoot = ACT_HL2MP_GESTURE_RANGE_ATTACK_PISTOL
 SWEP.GestureReload = ACT_HL2MP_GESTURE_RELOAD_PISTOL
@@ -78,14 +78,14 @@ SWEP.GestureBash2 = ACT_HL2MP_GESTURE_RANGE_ATTACK_MELEE
 
 SWEP.MidAirSpreadPenalty = 0
 
-SWEP.PassiveAng = Angle(-2.5, 0, 0)
-SWEP.PassivePos = Vector(1, 0, -5)
+SWEP.PassiveAng = Angle(-6, 0, 0)
+SWEP.PassivePos = Vector(4, 0, -7)
 
 SWEP.SprintAng = Angle(0, 0, 0)
 SWEP.SprintPos = Vector(2, 0, -5)
 
-SWEP.CustomizeAng = Angle(0, 25, 0)
-SWEP.CustomizePos = Vector(2, 0, -12)
+SWEP.CustomizeAng = Angle(0, -5, 0)
+SWEP.CustomizePos = Vector(2, 0, -2)
 
 SWEP.SprintMidPoint = {
     Pos = Vector(2, 0, -5),
@@ -100,28 +100,26 @@ SWEP.HolsterAng = Angle(-90, -90, 15)
 // sounds
 
 local path = "tacrp/weapons/knife/"
-local path1 = "tacint_shark/weapons/melee/knife_hit"
 
 SWEP.AnimationTranslationTable = {
     ["deploy"] = "deploy",
-    ["melee"] = {"slash_left1", "slash_left2", "slash_right1", "slash_right2"},
+    ["melee"] = "slash_left1",
     ["melee2"] = {"slash_forward1", "slash_forward2"},
     ["meleethrow"] = {"knifethrow"},
 }
 
 SWEP.Sound_MeleeHit = {
-    path1 .. "1.wav",
-    path1 .. "2.wav",
-    path1 .. "3.wav",
-    path1 .. "4.wav",
-
+    path .. "/scrape_metal-1.wav",
+    path .. "/scrape_metal-2.wav",
+    path .. "/scrape_metal-3.wav",
 }
 
 SWEP.Sound_MeleeHitBody = {
-    path1 .. "1.wav",
-    path1 .. "2.wav",
-    path1 .. "3.wav",
-    path1 .. "4.wav",
+    path .. "/flesh_hit-1.wav",
+    path .. "/flesh_hit-2.wav",
+    path .. "/flesh_hit-3.wav",
+    path .. "/flesh_hit-4.wav",
+    path .. "/flesh_hit-5.wav",
 }
 
 SWEP.Sound_MeleeSwing = {
@@ -165,7 +163,7 @@ local function addsound(name, spath)
     })
 end
 
-addsound("tacint_knife2.deploy", "tacrp/magtap.ogg")
+addsound("tacint_heathawk.deploy", "tacrp/weapons/pistol_unholster-2.wav")
 
 function SWEP:PrimaryAttack()
     local stop = self:RunHook("Hook_PreShoot")
