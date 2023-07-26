@@ -38,10 +38,10 @@ SWEP.Melee2AttackMissTime = 0.9
 
 SWEP.MeleeDamageType = DMG_SLASH
 
-SWEP.MeleeThrowDamage = 50
-SWEP.MeleeThrowForce = 3000
+SWEP.MeleeThrowDamage = 35
+SWEP.MeleeThrowForce = 3500
 
-SWEP.MeleeThrowTime = 0.85
+SWEP.MeleeThrowTime = 0.8
 SWEP.MeleeThrowTimeWait = 0.1
 
 SWEP.Firemode = 0
