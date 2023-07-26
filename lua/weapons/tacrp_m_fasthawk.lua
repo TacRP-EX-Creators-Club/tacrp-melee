@@ -10,7 +10,7 @@ SWEP.Category = "Tactical RP (Special)"
 SWEP.SubCatTier = "9Special"
 SWEP.SubCatType = "8Melee Weapon"
 
-SWEP.Description = "Modernized tomahawk designed for combat.  Deadly when thrown."
+SWEP.Description = "Modernized tomahawk designed for combat.\nFast to throw and deadly on impact, but isn't the most lethal melee weapon."
 
 SWEP.ViewModel = "models/weapons/tacint_melee/v_sog.mdl"
 SWEP.WorldModel = "models/weapons/tacint_melee/w_fasthawk.mdl"
@@ -26,20 +26,25 @@ SWEP.NPCUsable = false
 
 SWEP.PrimaryMelee = true
 
-SWEP.MeleeDamage = 35
-SWEP.MeleeAttackTime = 0.4
+SWEP.MeleeDamage = 34
+SWEP.MeleeAttackTime = 0.45
 SWEP.MeleeRange = 128
-SWEP.MeleeAttackMissTime = 0.5
+SWEP.MeleeAttackMissTime = 0.6
 
-SWEP.Melee2Damage = 60
+SWEP.Melee2Damage = 55
 SWEP.Melee2AttackTime = 0.65
 SWEP.Melee2Range = 96
-SWEP.Melee2AttackMissTime = 0.8
+SWEP.Melee2AttackMissTime = 0.9
 
 SWEP.MeleeDamageType = DMG_SLASH
 
-SWEP.MeleeThrowTime = 1
-SWEP.MeleeThrowTimeWait = 0.2
+SWEP.MeleeThrowDamage = 60
+SWEP.MeleeThrowForce = 4000
+
+SWEP.MeleeThrowTime = 0.8
+SWEP.MeleeThrowTimeWait = 0.15
+
+SWEP.MeleeDashChargeTime = 9
 
 SWEP.Firemode = 0
 
