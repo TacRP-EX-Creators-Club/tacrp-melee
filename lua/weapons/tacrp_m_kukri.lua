@@ -10,7 +10,7 @@ SWEP.Category = "Tactical RP (Special)"
 SWEP.SubCatTier = "9Special"
 SWEP.SubCatType = "8Melee Weapon"
 
-SWEP.Description = "Short knife with a curved blade. An excellent backup weapon for professionals with standards."
+SWEP.Description = "Short knife with a curved blade, supposedly designed as such so it hooks onto targets and inflicts maximum damage. \n\"Professionals have standards.\""
 
 SWEP.ViewModel = "models/weapons/tacint_melee/v_kukri.mdl"
 SWEP.WorldModel = "models/weapons/tacint_melee/w_kukri.mdl"

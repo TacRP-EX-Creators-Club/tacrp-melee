@@ -10,7 +10,7 @@ SWEP.Category = "Tactical RP (Special)"
 SWEP.SubCatTier = "9Special"
 SWEP.SubCatType = "8Melee Weapon"
 
-SWEP.Description = "Specialized police baton, used by cops to beat unruly people and sometimes by unruly people to beat cops. \nAlso known as a nightstick or a tonfa."
+SWEP.Description = "Specialized police baton with an angled handle for an alternative grip. Useful for putting down riots in failing \"democratic\" nations."
 
 SWEP.ViewModel = "models/weapons/tacint_melee/v_tonfa.mdl"
 SWEP.WorldModel = "models/weapons/tacint_melee/w_tonfa.mdl"

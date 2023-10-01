@@ -10,7 +10,7 @@ SWEP.Category = "Tactical RP (Special)"
 SWEP.SubCatTier = "9Special"
 SWEP.SubCatType = "8Melee Weapon"
 
-SWEP.Description = "All-purpose utility tool meant for prying things open but works pretty well as a bludgeon nonetheless.  \nNever leave work without one, you never know when you'll be caught in the middle of a resonance cascade!"
+SWEP.Description = "All-purpose utility tool meant for prying things open; crates, safes, doors and humans! \n\n\"I think you dropped this back in Black Mesa.\""
 
 SWEP.ViewModel = "models/weapons/tacint_melee/v_crowbar.mdl"
 SWEP.WorldModel = "models/weapons/tacint_melee/w_crowbar.mdl"

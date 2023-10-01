@@ -10,7 +10,7 @@ SWEP.Category = "Tactical RP (Special)"
 SWEP.SubCatTier = "9Special"
 SWEP.SubCatType = "8Melee Weapon"
 
-SWEP.Description = "Common craftsman tool for inserting nails into wood or securing objects in place.  Naturally makes for a great melee weapon."
+SWEP.Description = "Common craftsman tool for inserting nails into wood or securing objects in place.  Naturally a tool designed to hit things with makes for a decent melee weapon."
 
 SWEP.ViewModel = "models/weapons/tacint_melee/v_hamma.mdl"
 SWEP.WorldModel = "models/weapons/tacint_melee/w_hammer.mdl"

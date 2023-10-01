@@ -4,13 +4,13 @@ SWEP.Spawnable = true
 AddCSLuaFile()
 
 // names and stuff
-SWEP.PrintName = "TF 141 Knife"
+SWEP.PrintName = "Task Force Knife"
 SWEP.Category = "Tactical RP (Special)"
 
 SWEP.SubCatTier = "9Special"
 SWEP.SubCatType = "8Melee Weapon"
 
-SWEP.Description = "Oversized knife with a serrated edge and a curved handle, historically used by a disavowed spec ops unit during World War III."
+SWEP.Description = "Oversized knife with a serrated edge and a curved handle, a bit overkill for what's supposed to be a military knife. \n\n\"MOM GET THE CAMERA!\""
 
 SWEP.ViewModel = "models/weapons/tacint_melee/v_knife3.mdl"
 SWEP.WorldModel = "models/weapons/tacint_melee/w_knife3.mdl"

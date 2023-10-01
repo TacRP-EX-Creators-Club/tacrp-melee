@@ -10,7 +10,7 @@ SWEP.Category = "Tactical RP (Special)"
 SWEP.SubCatTier = "9Special"
 SWEP.SubCatType = "8Melee Weapon"
 
-SWEP.Description = "The one that started it all.  Before people were spending ludicrous amounts of money on Doppler and Case Hardened patterns, Ts and CTs alike favored this slick, iconic design."
+SWEP.Description = "A classic knife design from the 90's, before fancy patterns and ludicrous prices were all the rage. \n\n\"Alright, let's move out!\""
 
 SWEP.ViewModel = "models/weapons/tacint_melee/v_cssknife.mdl"
 SWEP.WorldModel = "models/weapons/tacint_melee/w_cssknife.mdl"

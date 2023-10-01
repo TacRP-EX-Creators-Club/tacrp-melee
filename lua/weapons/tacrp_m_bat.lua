@@ -10,7 +10,7 @@ SWEP.Category = "Tactical RP (Special)"
 SWEP.SubCatTier = "9Special"
 SWEP.SubCatType = "8Melee Weapon"
 
-SWEP.Description = "Aluminum baseball bat, good for hitting home runs or cracking skulls.  Boston accent and double jump not included!"
+SWEP.Description = "Aluminum baseball bat, good for hitting home runs or cracking skulls.  \n\n\"Pop quiz!  How long's it take to beat a moron to death?\""
 
 SWEP.ViewModel = "models/weapons/tacint_melee/v_bat.mdl"
 SWEP.WorldModel = "models/weapons/tacint_melee/w_bat.mdl"
