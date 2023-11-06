@@ -10,7 +10,8 @@ SWEP.Category = "Tactical RP (Special)"
 SWEP.SubCatTier = "9Special"
 SWEP.SubCatType = "8Melee Weapon"
 
-SWEP.Description = "A classic knife design from the 90's, before fancy patterns and ludicrous prices were all the rage. \n\n\"Alright, let's move out!\""
+SWEP.Description = "A classic knife design from the 90's, before fancy patterns and ludicrous prices were all the rage."
+SWEP.Description_Quote = "Alright, let's move out!"
 
 SWEP.ViewModel = "models/weapons/tacint_melee/v_cssknife.mdl"
 SWEP.WorldModel = "models/weapons/tacint_melee/w_cssknife.mdl"

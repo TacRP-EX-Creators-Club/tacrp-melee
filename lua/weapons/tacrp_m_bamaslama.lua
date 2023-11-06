@@ -10,7 +10,8 @@ SWEP.Category = "Tactical RP (Special)"
 SWEP.SubCatTier = "9Special"
 SWEP.SubCatType = "8Melee Weapon"
 
-SWEP.Description = "A bowie knife named after a cocktail, featuring a serrated back edge and a bayonet mount. \nThe cocktail itself is a mix of amaretto, Southern Comfort, sloe gin and orange juice."
+SWEP.Description = "A bowie knife named after a cocktail, featuring a serrated back edge and a bayonet mount."
+SWEP.Description_Quote = "Did I say you could do that?"
 
 SWEP.ViewModel = "models/weapons/tacint_melee/v_bamaslama.mdl"
 SWEP.WorldModel = "models/weapons/tacint_melee/w_bamaslama.mdl"
