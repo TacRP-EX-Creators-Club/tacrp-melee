@@ -13,6 +13,8 @@ SWEP.SubCatType = "8Melee Weapon"
 SWEP.Description = "A bowie knife named after a cocktail, featuring a serrated back edge and a bayonet mount."
 SWEP.Description_Quote = "Did I say you could do that?"
 
+SWEP.Credits = "Model: Havok101 \nTexture: Millenia"
+
 SWEP.ViewModel = "models/weapons/tacint_melee/v_bamaslama.mdl"
 SWEP.WorldModel = "models/weapons/tacint_melee/w_bamaslama.mdl"
 

@@ -12,6 +12,8 @@ SWEP.SubCatType = "8Melee Weapon"
 
 SWEP.Description = "Compact knife for survival situations, such as gutting fish, carving wood or gutting and carving an enemy."
 
+SWEP.Credits = "Model: Macaroane \nTexture: Blackfire"
+
 SWEP.ViewModel = "models/weapons/tacint_melee/v_gerber.mdl"
 SWEP.WorldModel = "models/weapons/tacint_melee/w_gerber.mdl"
 

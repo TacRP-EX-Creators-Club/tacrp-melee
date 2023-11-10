@@ -13,6 +13,8 @@ SWEP.SubCatType = "8Melee Weapon"
 SWEP.Description = "Aluminum baseball bat, good for hitting home runs or cracking skulls."
 SWEP.Description_Quote = "Pop quiz! How long's it take to beat a moron to death?"
 
+SWEP.Credits = "Model & Texture: Yogensia"
+
 SWEP.ViewModel = "models/weapons/tacint_melee/v_bat.mdl"
 SWEP.WorldModel = "models/weapons/tacint_melee/w_bat.mdl"
 

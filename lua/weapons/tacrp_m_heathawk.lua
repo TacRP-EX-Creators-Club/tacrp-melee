@@ -12,6 +12,8 @@ SWEP.SubCatType = "8Melee Weapon"
 
 SWEP.Description = "Axe-shaped MS weapon scaled down to human size.\nThe original utilizes a superheated edge that cuts through metal like butter, but this replica only has a glowing sticker attached to a metal blade."
 
+SWEP.Credits = "Model & Texture: Amouro"
+
 SWEP.ViewModel = "models/weapons/tacint_extras/v_heathawk.mdl"
 SWEP.WorldModel = "models/weapons/tacint_extras/w_heathawk.mdl"
 

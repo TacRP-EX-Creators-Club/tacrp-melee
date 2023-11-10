@@ -12,6 +12,8 @@ SWEP.SubCatType = "8Melee Weapon"
 
 SWEP.Description = "Sturdy, oversized survival knife.  \"Boina verde\" is Spanish for \"green beret,\" an attempt to market the knife as military-grade."
 
+SWEP.Credits = "Model & Texture: Shortez"
+
 SWEP.ViewModel = "models/weapons/tacint_melee/v_boina.mdl"
 SWEP.WorldModel = "models/weapons/tacint_melee/w_boina.mdl"
 

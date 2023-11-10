@@ -12,6 +12,8 @@ SWEP.SubCatType = "8Melee Weapon"
 
 SWEP.Description = "Thin-bladed knife with serrations on the back edge for extra deep penetration."
 
+SWEP.Credits = "Model: Warfrog \nTexture: kannoe"
+
 SWEP.ViewModel = "models/weapons/tacint_melee/v_harpoon.mdl"
 SWEP.WorldModel = "models/weapons/tacint_melee/w_harpoon.mdl"
 

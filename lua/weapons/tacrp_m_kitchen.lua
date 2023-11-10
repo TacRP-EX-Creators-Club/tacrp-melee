@@ -13,6 +13,8 @@ SWEP.SubCatType = "8Melee Weapon"
 SWEP.Description = "Plain, simple kitchen knife.  Easy to acquire and adequately lethal, knives like these are popular among street gangs."
 SWEP.Description_Quote = "Oi mate, you gotta license for that knife?"
 
+SWEP.Credits = "Model: Kitteh \nTexture: Rochenback"
+
 SWEP.ViewModel = "models/weapons/tacint_melee/v_kitchen.mdl"
 SWEP.WorldModel = "models/weapons/tacint_melee/w_kitchen.mdl"
 

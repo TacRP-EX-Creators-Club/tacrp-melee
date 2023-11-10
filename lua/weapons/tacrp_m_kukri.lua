@@ -13,6 +13,8 @@ SWEP.SubCatType = "8Melee Weapon"
 SWEP.Description = "Short knife with a curved blade, supposedly designed as such so it hooks onto targets and inflicts maximum damage."
 SWEP.Description_Quote = "Professionals have standards."
 
+SWEP.Credits = "Model: Loyen \nTexture: Pain_Agent"
+
 SWEP.ViewModel = "models/weapons/tacint_melee/v_kukri.mdl"
 SWEP.WorldModel = "models/weapons/tacint_melee/w_kukri.mdl"
 

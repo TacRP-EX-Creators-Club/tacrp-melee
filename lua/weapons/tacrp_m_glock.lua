@@ -10,7 +10,10 @@ SWEP.Category = "Tactical RP (Special)"
 SWEP.SubCatTier = "9Special"
 SWEP.SubCatType = "8Melee Weapon"
 
-SWEP.Description = "A sturdy field knife with a firm grip, designed for use within the Austrian Jagdkommando. \nYes, this is the same Glock that makes pistols."
+SWEP.Description = "A sturdy field knife with a firm grip, designed for use within the Austrian Jagdkommando."
+SWEP.Description_Quote = "Yes, this is the same Glock that makes pistols."
+
+SWEP.Credits = "Model: HellSpike \nTexture: Dr. Hubbler"
 
 SWEP.ViewModel = "models/weapons/tacint_melee/v_glock.mdl"
 SWEP.WorldModel = "models/weapons/tacint_melee/w_glock.mdl"

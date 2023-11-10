@@ -12,6 +12,8 @@ SWEP.SubCatType = "8Melee Weapon"
 
 SWEP.Description = "Common craftsman tool for inserting nails into wood or securing objects in place.  Naturally a tool designed to hit things with makes for a decent melee weapon."
 
+SWEP.Credits = "Model: FearFisch & sHiBaN \nTexture: Meltdown, sHiBaN & Kitteh"
+
 SWEP.ViewModel = "models/weapons/tacint_melee/v_hamma.mdl"
 SWEP.WorldModel = "models/weapons/tacint_melee/w_hammer.mdl"
 

@@ -13,6 +13,8 @@ SWEP.SubCatType = "8Melee Weapon"
 SWEP.Description = "All-purpose utility tool meant for prying things open; crates, safes, doors and humans!"
 SWEP.Description_Quote = "I think you dropped this back in Black Mesa."
 
+SWEP.Credits = "Model: Loyen \nTexture: -tWo-"
+
 SWEP.ViewModel = "models/weapons/tacint_melee/v_crowbar.mdl"
 SWEP.WorldModel = "models/weapons/tacint_melee/w_crowbar.mdl"
 

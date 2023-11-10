@@ -12,6 +12,8 @@ SWEP.SubCatType = "8Melee Weapon"
 
 SWEP.Description = "Modernized tomahawk designed for combat.\nFast to throw and deadly on impact, but isn't the most lethal melee weapon."
 
+SWEP.Credits = "Model & Texture: Yogensia"
+
 SWEP.ViewModel = "models/weapons/tacint_melee/v_sog.mdl"
 SWEP.WorldModel = "models/weapons/tacint_melee/w_fasthawk.mdl"
 

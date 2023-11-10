@@ -12,6 +12,8 @@ SWEP.SubCatType = "8Melee Weapon"
 
 SWEP.Description = "Oversized gut knife designed for multiple hunting utilities, one of which is, conveniently, slicing open human targets."
 
+SWEP.Credits = "Model: Cartman \nTexture: Henron & Fxdarkloki"
+
 SWEP.ViewModel = "models/weapons/tacint_melee/v_tracker.mdl"
 SWEP.WorldModel = "models/weapons/tacint_melee/w_tracker.mdl"
 

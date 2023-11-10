@@ -12,6 +12,8 @@ SWEP.SubCatType = "8Melee Weapon"
 
 SWEP.Description = "A classic knife design made specifically for dueling, back when knife fights were a form of entertainment. \nRemains popular due to its association with overly-masculine 80's action movie stars."
 
+SWEP.Credits = "Model: fallschirmjager \nTexture: HellSpike & EinHain"
+
 SWEP.ViewModel = "models/weapons/tacint_melee/v_bowie.mdl"
 SWEP.WorldModel = "models/weapons/tacint_melee/w_bowie.mdl"
 

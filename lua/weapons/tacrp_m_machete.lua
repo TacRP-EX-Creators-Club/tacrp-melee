@@ -12,6 +12,8 @@ SWEP.SubCatType = "8Melee Weapon"
 
 SWEP.Description = "Versatile blade that can be used as an agricultural tool, a weapon of war or as a navigational aid when deep in the bush."
 
+SWEP.Credits = "Assets: BrainBread 2"
+
 SWEP.ViewModel = "models/weapons/tacint_melee/v_machete.mdl"
 SWEP.WorldModel = "models/weapons/tacint_melee/w_machete.mdl"
 

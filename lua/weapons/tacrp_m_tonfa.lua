@@ -12,6 +12,8 @@ SWEP.SubCatType = "8Melee Weapon"
 
 SWEP.Description = "Specialized police baton with an angled handle for an alternative grip. Useful for putting down riots in failing \"democratic\" nations."
 
+SWEP.Credits = "Assets: Left 4 Dead 2"
+
 SWEP.ViewModel = "models/weapons/tacint_melee/v_tonfa.mdl"
 SWEP.WorldModel = "models/weapons/tacint_melee/w_tonfa.mdl"
 

@@ -12,6 +12,8 @@ SWEP.SubCatType = "8Melee Weapon"
 
 SWEP.Description = "Large, sturdy blade made for chopping meat, be that animal meat or human meat."
 
+SWEP.Credits = "Assets: Warface"
+
 SWEP.ViewModel = "models/weapons/tacint_melee/v_cleaver.mdl"
 SWEP.WorldModel = "models/weapons/tacint_melee/w_cleaver.mdl"
 

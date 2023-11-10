@@ -12,6 +12,8 @@ SWEP.SubCatType = "8Melee Weapon"
 
 SWEP.Description = "Flashy flip knife with a premium stainless finish and woodgrain handle."
 
+SWEP.Credits = "Model & Texture: Teh Snake"
+
 SWEP.ViewModel = "models/weapons/tacint_melee/v_incorp.mdl"
 SWEP.WorldModel = "models/weapons/tacint_melee/w_incorp.mdl"
 
