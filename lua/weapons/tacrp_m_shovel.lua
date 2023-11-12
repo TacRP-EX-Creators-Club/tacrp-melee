@@ -119,13 +119,12 @@ SWEP.Sound_MeleeHit = {
 }
 
 SWEP.Sound_MeleeHitBody = {
-    path1 .. "shovel_hitbody_1.wav",
-    path1 .. "shovel_hitbody_2.wav",
+	path1 .. "shovel_hitbody_1.wav",
+	path1 .. "shovel_hitbody_2.wav",
+	path1 .. "shovel_hitbody_3.wav",
 }
 
-SWEP.Sound_MeleeSwing = {
-	"weapons/iceaxe/iceaxe_swing1.wav",
-}
+SWEP.Sound_MeleeSwing = "weapons/iceaxe/iceaxe_swing1.wav"
 
 // attachments
 

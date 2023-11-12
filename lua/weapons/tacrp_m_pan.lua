@@ -101,7 +101,6 @@ SWEP.HolsterAng = Angle(-90, -90, 15)
 
 // sounds
 
-local path = "tacrp/weapons/knife/"
 local path1 = "tacint_shark/weapons/melee/"
 
 SWEP.AnimationTranslationTable = {
@@ -114,17 +113,17 @@ SWEP.AnimationTranslationTable = {
 SWEP.Sound_MeleeHit = {
 	path1 .. "pan_impact_world1.wav",
 	path1 .. "pan_impact_world2.wav",
-	path1 .. "pan_impact_world3.wav"
+	path1 .. "pan_impact_world3.wav",
 }
 
 SWEP.Sound_MeleeHitBody = {
-    path1 .. "melee_frying_pan_01.wav",
-    path1 .. "melee_frying_pan_02.wav",
+	path1 .. "melee_frying_pan_01.wav",
+	path1 .. "melee_frying_pan_02.wav",
+	path1 .. "melee_frying_pan_03.wav",
+	path1 .. "melee_frying_pan_04.wav",
 }
 
-SWEP.Sound_MeleeSwing = {
-	"weapons/iceaxe/iceaxe_swing1.wav",
-}
+SWEP.Sound_MeleeSwing = "weapons/iceaxe/iceaxe_swing1.wav"
 
 // attachments
 
