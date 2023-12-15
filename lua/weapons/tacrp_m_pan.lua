@@ -28,18 +28,18 @@ SWEP.NPCUsable = false
 
 SWEP.PrimaryMelee = true
 
-SWEP.MeleeDamage = 40
+SWEP.MeleeDamage = 45
 SWEP.MeleeAttackTime = 0.5
 SWEP.MeleeRange = 128
 SWEP.MeleeAttackMissTime = 0.65
 
 SWEP.MeleeDamageType = DMG_CLUB
 
-SWEP.MeleeThrowForce = 1000
+SWEP.MeleeThrowForce = 900
 
-SWEP.MeleePerkStr = 0.8
-SWEP.MeleePerkAgi = 0.4
-SWEP.MeleePerkInt = 0.3
+SWEP.MeleePerkStr = 0.7
+SWEP.MeleePerkAgi = 0.3
+SWEP.MeleePerkInt = 0.25
 
 // hold types
 
