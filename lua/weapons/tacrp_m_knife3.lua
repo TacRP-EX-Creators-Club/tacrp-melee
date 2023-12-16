@@ -1,4 +1,4 @@
-SWEP.Base = "tacrp_base"
+SWEP.Base = "tacrp_base_knife"
 SWEP.Spawnable = true
 
 AddCSLuaFile()
@@ -18,56 +18,20 @@ SWEP.Credits = "Model: Syncing \nTexture: Boba Fett"
 SWEP.ViewModel = "models/weapons/tacint_melee/v_knife3.mdl"
 SWEP.WorldModel = "models/weapons/tacint_melee/w_knife3.mdl"
 
-SWEP.NoRanger = true
-SWEP.NoStatBox = true
-
 SWEP.Slot = 0
 
-SWEP.NPCUsable = false
-
-// misc. shooting
-
-SWEP.PrimaryMelee = true
-
 SWEP.MeleeDamage = 40
-SWEP.MeleeAttackTime = 0.5
+SWEP.MeleeAttackTime = 0.48
 SWEP.MeleeRange = 128
-SWEP.MeleeAttackMissTime = 0.65
+SWEP.MeleeAttackMissTime = 0.55
 
-SWEP.Melee2Damage = 65
-SWEP.Melee2AttackTime = 0.7
-SWEP.Melee2Range = 96
-SWEP.Melee2AttackMissTime = 0.9
+SWEP.MeleeDamageType = DMG_CLUB
 
-SWEP.MeleeDamageType = DMG_SLASH
+SWEP.MeleeThrowForce = 1200
 
-SWEP.MeleeThrowTime = 1
-SWEP.MeleeThrowTimeWait = 0.2
-
-SWEP.Firemode = 0
-
-SWEP.RPM = 110
-
-SWEP.CanBlindFire = false
-
-SWEP.Ammo = ""
-SWEP.ClipSize = -1
-SWEP.Primary.ClipSize = -1
-
-// handling
-
-SWEP.MoveSpeedMult = 1
-
-SWEP.MeleeSpeedMult = 1
-SWEP.MeleeSpeedMultTime = 0.5
-
-SWEP.SprintToFireTime = 0.25
-
-SWEP.QuickNadeTimeMult = 0.8
-
-SWEP.Scope = false
-
-SWEP.Sway = 0
+SWEP.MeleePerkStr = 0.3
+SWEP.MeleePerkAgi = 0.5
+SWEP.MeleePerkInt = 0.8
 
 // hold types
 

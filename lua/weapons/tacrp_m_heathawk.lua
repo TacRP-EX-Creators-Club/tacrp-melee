@@ -1,4 +1,4 @@
-SWEP.Base = "tacrp_base"
+SWEP.Base = "tacrp_base_knife"
 SWEP.Spawnable = true
 
 AddCSLuaFile()
@@ -17,59 +17,20 @@ SWEP.Credits = "Model & Texture: Amouro"
 SWEP.ViewModel = "models/weapons/tacint_extras/v_heathawk.mdl"
 SWEP.WorldModel = "models/weapons/tacint_extras/w_heathawk.mdl"
 
-SWEP.NoRanger = true
-SWEP.NoStatBox = true
-
 SWEP.Slot = 0
 
-SWEP.NPCUsable = false
-
-// misc. shooting
-
-SWEP.PrimaryMelee = true
-
-SWEP.MeleeDamage = 55
-SWEP.MeleeAttackTime = 0.6
+SWEP.MeleeDamage = 40
+SWEP.MeleeAttackTime = 0.48
 SWEP.MeleeRange = 128
-SWEP.MeleeAttackMissTime = 0.8
+SWEP.MeleeAttackMissTime = 0.55
 
-SWEP.Melee2Damage = 80
-SWEP.Melee2AttackTime = 0.7
-SWEP.Melee2Range = 96
-SWEP.Melee2AttackMissTime = 0.85
+SWEP.MeleeDamageType = DMG_CLUB
 
-SWEP.MeleeThrowDamage = 75
-SWEP.MeleeThrowForce = 3500
+SWEP.MeleeThrowForce = 1200
 
-SWEP.MeleeDamageType = DMG_SLASH
-
-SWEP.MeleeThrowTime = 1.75
-SWEP.MeleeThrowTimeWait = 0.75
-
-SWEP.Firemode = 0
-
-SWEP.RPM = 110
-
-SWEP.CanBlindFire = false
-
-SWEP.Ammo = ""
-SWEP.ClipSize = -1
-SWEP.Primary.ClipSize = -1
-
-// handling
-
-SWEP.MoveSpeedMult = 1
-
-SWEP.MeleeSpeedMult = 1
-SWEP.MeleeSpeedMultTime = 0.5
-
-SWEP.SprintToFireTime = 0.25
-
-SWEP.QuickNadeTimeMult = 0.8
-
-SWEP.Scope = false
-
-SWEP.Sway = 0
+SWEP.MeleePerkStr = 0.3
+SWEP.MeleePerkAgi = 0.5
+SWEP.MeleePerkInt = 0.8
 
 // hold types
 
