@@ -20,16 +20,16 @@ SWEP.WorldModel = "models/weapons/tacint_melee/w_kitchen.mdl"
 
 SWEP.Slot = 0
 
-SWEP.MeleeDamage = 40
-SWEP.MeleeAttackTime = 0.48
+SWEP.MeleeDamage = 36
+SWEP.MeleeAttackTime = 0.45
 SWEP.MeleeRange = 128
-SWEP.MeleeAttackMissTime = 0.55
+SWEP.MeleeAttackMissTime = 0.57
 
 SWEP.MeleeDamageType = DMG_CLUB
 
 SWEP.MeleeThrowForce = 1200
 
-SWEP.MeleePerkStr = 0.3
+SWEP.MeleePerkStr = 0.5
 SWEP.MeleePerkAgi = 0.5
 SWEP.MeleePerkInt = 0.8
 
