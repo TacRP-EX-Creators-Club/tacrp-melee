@@ -10,7 +10,7 @@ SWEP.Category = "Tactical RP (Special)"
 SWEP.SubCatTier = "9Special"
 SWEP.SubCatType = "8Melee Weapon"
 
-SWEP.Description = "Large, sturdy blade made for chopping meat, be that animal meat or human meat."
+SWEP.Description = "Large, sturdy blade made for chopping meat, be that animal meat or human meat. Has innate Lifesteal."
 
 SWEP.Credits = "Assets: Warface"
 
@@ -19,18 +19,18 @@ SWEP.WorldModel = "models/weapons/tacint_melee/w_cleaver.mdl"
 
 SWEP.Slot = 0
 
-SWEP.MeleeDamage = 50
-SWEP.MeleeAttackTime = 0.52
-SWEP.MeleeRange = 128
-SWEP.MeleeAttackMissTime = 0.64
+SWEP.MeleeDamage = 38
+SWEP.MeleeAttackTime = 0.42
+SWEP.MeleeAttackMissTime = 0.55
+SWEP.MeleeDelay = 0.15
 
-SWEP.MeleeDamageType = DMG_CLUB
+SWEP.MeleeDamageType = DMG_SLASH
 
-SWEP.MeleeThrowForce = 1200
+SWEP.MeleePerkStr = 0.25
+SWEP.MeleePerkAgi = 0.5
+SWEP.MeleePerkInt = 0.4
 
-SWEP.MeleePerkStr = 0.3
-SWEP.MeleePerkAgi = 0.6
-SWEP.MeleePerkInt = 0.55
+SWEP.Lifesteal = 0.2
 
 // hold types
 

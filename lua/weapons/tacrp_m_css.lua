@@ -20,15 +20,16 @@ SWEP.WorldModel = "models/weapons/tacint_melee/w_cssknife.mdl"
 
 SWEP.Slot = 0
 
-SWEP.MeleeDamage = 30
-SWEP.MeleeAttackTime = 0.36
-SWEP.MeleeAttackMissTime = 0.4
+SWEP.MeleeDamage = 32
+SWEP.MeleeAttackTime = 0.35
+SWEP.MeleeAttackMissTime = 0.45
+SWEP.MeleeDelay = 0.12
 
 SWEP.MeleeDamageType = DMG_SLASH
 
-SWEP.MeleePerkStr = 0.6
-SWEP.MeleePerkAgi = 0.6
-SWEP.MeleePerkInt = 0.6
+SWEP.MeleePerkStr = 0.55
+SWEP.MeleePerkAgi = 0.55
+SWEP.MeleePerkInt = 0.55
 
 // hold types
 

@@ -19,18 +19,19 @@ SWEP.WorldModel = "models/weapons/tacint_extras/w_heathawk.mdl"
 
 SWEP.Slot = 0
 
-SWEP.MeleeDamage = 55
-SWEP.MeleeAttackTime = 0.55
-SWEP.MeleeRange = 128
+SWEP.MeleeDamage = 60
+SWEP.MeleeAttackTime = 0.6
+SWEP.MeleeRange = 90
 SWEP.MeleeAttackMissTime = 0.7
+SWEP.MeleeDelay = 0.2
 
 SWEP.MeleeDamageType = DMG_CLUB
 
 SWEP.MeleeThrowForce = 1000
 
-SWEP.MeleePerkStr = 0.8
+SWEP.MeleePerkStr = 0.3
 SWEP.MeleePerkAgi = 0.4
-SWEP.MeleePerkInt = 0.3
+SWEP.MeleePerkInt = 0.4
 
 // hold types
 

@@ -19,18 +19,19 @@ SWEP.WorldModel = "models/weapons/tacint_melee/w_tonfa.mdl"
 
 SWEP.Slot = 0
 
-SWEP.MeleeDamage = 28
+SWEP.MeleeDamage = 30
 SWEP.MeleeAttackTime = 0.35
-SWEP.MeleeRange = 128
-SWEP.MeleeAttackMissTime = 0.36
+SWEP.MeleeAttackMissTime = 0.45
+SWEP.MeleeDelay = 0.12
+SWEP.MeleeRange = 90
 
 SWEP.MeleeDamageType = DMG_CLUB
 
 SWEP.MeleeThrowForce = 1200
 
-SWEP.MeleePerkStr = 0.3
-SWEP.MeleePerkAgi = 0.8
-SWEP.MeleePerkInt = 0.75
+SWEP.MeleePerkStr = 0.25
+SWEP.MeleePerkAgi = 0.65
+SWEP.MeleePerkInt = 0.65
 
 // hold types
 

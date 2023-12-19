@@ -10,7 +10,8 @@ SWEP.Category = "Tactical RP (Special)"
 SWEP.SubCatTier = "9Special"
 SWEP.SubCatType = "8Melee Weapon"
 
-SWEP.Description = "Common craftsman tool for inserting nails into wood or securing objects in place.  Naturally a tool designed to hit things with makes for a decent melee weapon."
+SWEP.Description = "Common craftsman tool for inserting nails into wood or securing objects in place."
+SWEP.Description_Quote = "When you have a hammer, everything looks like a nail..."
 
 SWEP.Credits = "Model: FearFisch & sHiBaN \nTexture: Meltdown, sHiBaN & Kitteh"
 
@@ -19,18 +20,18 @@ SWEP.WorldModel = "models/weapons/tacint_melee/w_hammer.mdl"
 
 SWEP.Slot = 0
 
-SWEP.MeleeDamage = 38
-SWEP.MeleeAttackTime = 0.45
-SWEP.MeleeRange = 128
-SWEP.MeleeAttackMissTime = 0.56
+SWEP.MeleeDamage = 30
+SWEP.MeleeAttackTime = 0.35
+SWEP.MeleeAttackMissTime = 0.45
+SWEP.MeleeDelay = 0.12
 
 SWEP.MeleeDamageType = DMG_CLUB
 
-SWEP.MeleeThrowForce = 1100
+SWEP.MeleeThrowForce = 2000
 
-SWEP.MeleePerkStr = 0.35
+SWEP.MeleePerkStr = 0.45
 SWEP.MeleePerkAgi = 0.7
-SWEP.MeleePerkInt = 0.3
+SWEP.MeleePerkInt = 0.5
 
 // hold types
 
@@ -76,10 +77,10 @@ SWEP.AnimationTranslationTable = {
 }
 
 SWEP.Sound_MeleeHit = {
-	"physics/wood/wood_plank_impact_hard1.wav",
-	"physics/wood/wood_plank_impact_hard2.wav",
-	"physics/plastic/plastic_box_impact_hard2.wav",
-	"physics/plastic/plastic_box_impact_hard3.wav",
+    "physics/wood/wood_plank_impact_hard1.wav",
+    "physics/wood/wood_plank_impact_hard2.wav",
+    "physics/plastic/plastic_box_impact_hard2.wav",
+    "physics/plastic/plastic_box_impact_hard3.wav",
 }
 
 SWEP.Sound_MeleeHitBody = {

@@ -10,7 +10,7 @@ SWEP.Category = "Tactical RP (Special)"
 SWEP.SubCatTier = "9Special"
 SWEP.SubCatType = "8Melee Weapon"
 
-SWEP.Description = "Modernized tomahawk designed for combat.\nFast to throw and deadly on impact, but isn't the most lethal melee weapon."
+SWEP.Description = "Modernized tomahawk designed for combat. Aerodynamic design can be thrown far."
 
 SWEP.Credits = "Model & Texture: Yogensia"
 
@@ -19,18 +19,18 @@ SWEP.WorldModel = "models/weapons/tacint_melee/w_fasthawk.mdl"
 
 SWEP.Slot = 0
 
-SWEP.MeleeDamage = 55
-SWEP.MeleeAttackTime = 0.55
-SWEP.MeleeRange = 128
-SWEP.MeleeAttackMissTime = 0.65
+SWEP.MeleeDamage = 35
+SWEP.MeleeAttackTime = 0.4
+SWEP.MeleeAttackMissTime = 0.5
+SWEP.MeleeDelay = 0.15
 
-SWEP.MeleeDamageType = DMG_CLUB
+SWEP.MeleeDamageType = DMG_SLASH
 
-SWEP.MeleeThrowForce = 1500
+SWEP.MeleeThrowForce = 3500
 
-SWEP.MeleePerkStr = 0.1
-SWEP.MeleePerkAgi = 0.6
-SWEP.MeleePerkInt = 0.6
+SWEP.MeleePerkStr = 0.5
+SWEP.MeleePerkAgi = 0.55
+SWEP.MeleePerkInt = 0.45
 
 // hold types
 

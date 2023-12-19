@@ -10,7 +10,7 @@ SWEP.Category = "Tactical RP (Special)"
 SWEP.SubCatTier = "9Special"
 SWEP.SubCatType = "8Melee Weapon"
 
-SWEP.Description = "An iconic game controller with revolutionary motion controls.  \nCareful!  Neglecting to wear the wrist strap could lead to injury."
+SWEP.Description = "An iconic game controller with revolutionary motion controls. \nCareful!  Neglecting to wear the wrist strap could lead to injury."
 
 SWEP.Credits = "Model & Texture: Mr. Pickle"
 
@@ -19,17 +19,17 @@ SWEP.WorldModel = "models/weapons/tacint_melee/w_wiimote.mdl"
 
 SWEP.Slot = 0
 
-SWEP.MeleeDamage = 40
-SWEP.MeleeAttackTime = 0.48
-SWEP.MeleeRange = 128
-SWEP.MeleeAttackMissTime = 0.55
+SWEP.MeleeDamage = 25
+SWEP.MeleeAttackTime = 0.33
+SWEP.MeleeAttackMissTime = 0.4
+SWEP.MeleeDelay = 0.1
 
 SWEP.MeleeDamageType = DMG_CLUB
 
 SWEP.MeleeThrowForce = 1200
 
 SWEP.MeleePerkStr = 0.3
-SWEP.MeleePerkAgi = 0.5
+SWEP.MeleePerkAgi = 0.6
 SWEP.MeleePerkInt = 0.8
 
 // hold types

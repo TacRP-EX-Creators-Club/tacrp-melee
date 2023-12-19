@@ -21,17 +21,16 @@ SWEP.WorldModel = "models/weapons/tacint_melee/w_knife3.mdl"
 SWEP.Slot = 0
 
 SWEP.MeleeDamage = 50
-SWEP.MeleeAttackTime = 0.55
-SWEP.MeleeRange = 128
-SWEP.MeleeAttackMissTime = 0.62
+SWEP.MeleeAttackTime = 0.45
+SWEP.MeleeAttackMissTime = 0.55
 
-SWEP.MeleeDamageType = DMG_CLUB
+SWEP.MeleeDamageType = DMG_SLASH
 
 SWEP.MeleeThrowForce = 1400
 
-SWEP.MeleePerkStr = 0.2
+SWEP.MeleePerkStr = 0.3
 SWEP.MeleePerkAgi = 0.4
-SWEP.MeleePerkInt = 0.8
+SWEP.MeleePerkInt = 0.4
 
 // hold types
 

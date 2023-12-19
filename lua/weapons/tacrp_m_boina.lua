@@ -10,7 +10,7 @@ SWEP.Category = "Tactical RP (Special)"
 SWEP.SubCatTier = "9Special"
 SWEP.SubCatType = "8Melee Weapon"
 
-SWEP.Description = "Sturdy, oversized survival knife.  \"Boina verde\" is Spanish for \"green beret,\" an attempt to market the knife as military-grade."
+SWEP.Description = "Sturdy, oversized survival knife. \"Boina verde\" is Spanish for \"green beret,\" an attempt to market the knife as military-grade."
 
 SWEP.Credits = "Model & Texture: Shortez"
 
@@ -19,18 +19,15 @@ SWEP.WorldModel = "models/weapons/tacint_melee/w_boina.mdl"
 
 SWEP.Slot = 0
 
-SWEP.MeleeDamage = 38
-SWEP.MeleeAttackTime = 0.38
-SWEP.MeleeRange = 128
-SWEP.MeleeAttackMissTime = 0.47
+SWEP.MeleeDamage = 35
+SWEP.MeleeAttackTime = 0.4
+SWEP.MeleeAttackMissTime = 0.5
 
-SWEP.MeleeDamageType = DMG_CLUB
+SWEP.MeleeDamageType = DMG_SLASH
 
-SWEP.MeleeThrowForce = 1200
-
-SWEP.MeleePerkStr = 0.35
-SWEP.MeleePerkAgi = 0.4
-SWEP.MeleePerkInt = 0.7
+SWEP.MeleePerkStr = 0.55
+SWEP.MeleePerkAgi = 0.45
+SWEP.MeleePerkInt = 0.5
 
 // hold types
 

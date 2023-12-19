@@ -10,7 +10,7 @@ SWEP.Category = "Tactical RP (Special)"
 SWEP.SubCatTier = "9Special"
 SWEP.SubCatType = "8Melee Weapon"
 
-SWEP.Description = "Plain, simple kitchen knife.  Easy to acquire and adequately lethal, knives like these are popular among street gangs."
+SWEP.Description = "Plain, simple kitchen knife. Easy to acquire and adequately lethal, knives like these are popular among street gangs and psychopaths. Has innate Lifesteal."
 SWEP.Description_Quote = "Oi mate, you gotta license for that knife?"
 
 SWEP.Credits = "Model: Kitteh \nTexture: Rochenback"
@@ -20,18 +20,20 @@ SWEP.WorldModel = "models/weapons/tacint_melee/w_kitchen.mdl"
 
 SWEP.Slot = 0
 
-SWEP.MeleeDamage = 36
-SWEP.MeleeAttackTime = 0.45
-SWEP.MeleeRange = 128
-SWEP.MeleeAttackMissTime = 0.57
+SWEP.MeleeDamage = 30
+SWEP.MeleeAttackTime = 0.35
+SWEP.MeleeAttackMissTime = 0.45
+SWEP.MeleeDelay = 0.12
 
-SWEP.MeleeDamageType = DMG_CLUB
+SWEP.MeleeDamageType = DMG_SLASH
 
-SWEP.MeleeThrowForce = 1200
+SWEP.MeleeThrowForce = 2200
 
 SWEP.MeleePerkStr = 0.5
-SWEP.MeleePerkAgi = 0.5
-SWEP.MeleePerkInt = 0.8
+SWEP.MeleePerkAgi = 0.6
+SWEP.MeleePerkInt = 0.5
+
+SWEP.Lifesteal = 0.2
 
 // hold types
 

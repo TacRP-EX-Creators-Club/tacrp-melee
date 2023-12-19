@@ -10,7 +10,7 @@ SWEP.Category = "Tactical RP (Special)"
 SWEP.SubCatTier = "9Special"
 SWEP.SubCatType = "8Melee Weapon"
 
-SWEP.Description = "Military standard-issue knife that can be mounted on a weapon as a bayonet.  Nothing stopping you from using it like a normal knife, however."
+SWEP.Description = "Military standard-issue knife that can be mounted on a weapon as a bayonet. Nothing stopping you from using it like a normal knife, however."
 
 SWEP.Credits = "Assets: BrainBread 2"
 
@@ -19,18 +19,17 @@ SWEP.WorldModel = "models/weapons/tacint_melee/w_bayonet.mdl"
 
 SWEP.Slot = 0
 
-SWEP.MeleeDamage = 36
-SWEP.MeleeAttackTime = 0.42
-SWEP.MeleeRange = 128
+SWEP.MeleeDamage = 35
+SWEP.MeleeAttackTime = 0.4
 SWEP.MeleeAttackMissTime = 0.5
 
-SWEP.MeleeDamageType = DMG_CLUB
+SWEP.MeleeDamageType = DMG_SLASH
 
 SWEP.MeleeThrowForce = 1200
 
-SWEP.MeleePerkStr = 0.4
-SWEP.MeleePerkAgi = 0.55
-SWEP.MeleePerkInt = 0.3
+SWEP.MeleePerkStr = 0.45
+SWEP.MeleePerkAgi = 0.5
+SWEP.MeleePerkInt = 0.55
 
 // hold types
 

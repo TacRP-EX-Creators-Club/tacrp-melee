@@ -19,18 +19,15 @@ SWEP.WorldModel = "models/weapons/tacint_melee/w_bowie.mdl"
 
 SWEP.Slot = 0
 
-SWEP.MeleeDamage = 40
-SWEP.MeleeAttackTime = 0.48
-SWEP.MeleeRange = 128
-SWEP.MeleeAttackMissTime = 0.55
+SWEP.MeleeDamage = 45
+SWEP.MeleeAttackTime = 0.45
+SWEP.MeleeAttackMissTime = 0.57
 
-SWEP.MeleeDamageType = DMG_CLUB
+SWEP.MeleeDamageType = DMG_SLASH
 
-SWEP.MeleeThrowForce = 1200
-
-SWEP.MeleePerkStr = 0.3
+SWEP.MeleePerkStr = 0.4
 SWEP.MeleePerkAgi = 0.5
-SWEP.MeleePerkInt = 0.8
+SWEP.MeleePerkInt = 0.35
 
 // hold types
 

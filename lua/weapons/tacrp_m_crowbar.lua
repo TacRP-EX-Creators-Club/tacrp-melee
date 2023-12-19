@@ -22,16 +22,16 @@ SWEP.Slot = 0
 
 SWEP.MeleeDamage = 50
 SWEP.MeleeAttackTime = 0.5
-SWEP.MeleeRange = 128
-SWEP.MeleeAttackMissTime = 0.58
+SWEP.MeleeRange = 90
+SWEP.MeleeAttackMissTime = 0.6
 
 SWEP.MeleeDamageType = DMG_CLUB
 
 SWEP.MeleeThrowForce = 1000
 
-SWEP.MeleePerkStr = 0.25
-SWEP.MeleePerkAgi = 0.4
-SWEP.MeleePerkInt = 0.4
+SWEP.MeleePerkStr = 0.3
+SWEP.MeleePerkAgi = 0.45
+SWEP.MeleePerkInt = 0.35
 
 // hold types
 

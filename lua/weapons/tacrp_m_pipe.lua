@@ -17,25 +17,18 @@ SWEP.Credits = "Assets: No More Room in Hell"
 SWEP.ViewModel = "models/weapons/tacint_melee/v_pipe.mdl"
 SWEP.WorldModel = "models/weapons/tacint_melee/w_pipe.mdl"
 
-SWEP.NoRanger = true
-SWEP.NoStatBox = false
-
-SWEP.Slot = 0
-
-SWEP.NPCUsable = false
-
-SWEP.MeleeDamage = 45
-SWEP.MeleeAttackTime = 0.55
-SWEP.MeleeRange = 128
-SWEP.MeleeAttackMissTime = 0.65
+SWEP.MeleeDamage = 40
+SWEP.MeleeAttackTime = 0.4
+SWEP.MeleeAttackMissTime = 0.5
+SWEP.MeleeRange = 90
 
 SWEP.MeleeDamageType = DMG_CLUB
 
 SWEP.MeleeThrowForce = 900
 
-SWEP.MeleePerkStr = 0.8
+SWEP.MeleePerkStr = 0.4
 SWEP.MeleePerkAgi = 0.4
-SWEP.MeleePerkInt = 0.45
+SWEP.MeleePerkInt = 0.4
 
 // hold types
 

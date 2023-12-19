@@ -20,18 +20,17 @@ SWEP.WorldModel = "models/weapons/tacint_melee/w_kukri.mdl"
 
 SWEP.Slot = 0
 
-SWEP.MeleeDamage = 45
-SWEP.MeleeAttackTime = 0.48
-SWEP.MeleeRange = 128
-SWEP.MeleeAttackMissTime = 0.6
+SWEP.MeleeDamage = 38
+SWEP.MeleeAttackTime = 0.4
+SWEP.MeleeAttackMissTime = 0.5
 
-SWEP.MeleeDamageType = DMG_CLUB
+SWEP.MeleeDamageType = DMG_SLASH
 
 SWEP.MeleeThrowForce = 1100
 
-SWEP.MeleePerkStr = 0.6
-SWEP.MeleePerkAgi = 0.25
-SWEP.MeleePerkInt = 0.5
+SWEP.MeleePerkStr = 0.4
+SWEP.MeleePerkAgi = 0.45
+SWEP.MeleePerkInt = 0.6
 
 // hold types
 

@@ -20,17 +20,17 @@ SWEP.WorldModel = "models/weapons/tacint_melee/w_machete.mdl"
 SWEP.Slot = 0
 
 SWEP.MeleeDamage = 50
-SWEP.MeleeAttackTime = 0.55
-SWEP.MeleeRange = 128
-SWEP.MeleeAttackMissTime = 0.68
+SWEP.MeleeAttackTime = 0.6
+SWEP.MeleeRange = 90
+SWEP.MeleeAttackMissTime = 0.7
 
-SWEP.MeleeDamageType = DMG_CLUB
+SWEP.MeleeDamageType = DMG_SLASH
 
 SWEP.MeleeThrowForce = 1200
 
-SWEP.MeleePerkStr = 0.5
-SWEP.MeleePerkAgi = 0.4
-SWEP.MeleePerkInt = 0.35
+SWEP.MeleePerkStr = 0.4
+SWEP.MeleePerkAgi = 0.3
+SWEP.MeleePerkInt = 0.3
 
 // hold types
 

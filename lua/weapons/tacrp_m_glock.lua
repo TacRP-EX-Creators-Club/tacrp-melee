@@ -21,17 +21,16 @@ SWEP.WorldModel = "models/weapons/tacint_melee/w_glock.mdl"
 SWEP.Slot = 0
 
 SWEP.MeleeDamage = 35
-SWEP.MeleeAttackTime = 0.38
-SWEP.MeleeRange = 128
-SWEP.MeleeAttackMissTime = 0.47
+SWEP.MeleeAttackTime = 0.4
+SWEP.MeleeAttackMissTime = 0.5
 
 SWEP.MeleeDamageType = DMG_CLUB
 
 SWEP.MeleeThrowForce = 1200
 
-SWEP.MeleePerkStr = 0.65
+SWEP.MeleePerkStr = 0.45
 SWEP.MeleePerkAgi = 0.5
-SWEP.MeleePerkInt = 0.5
+SWEP.MeleePerkInt = 0.55
 
 // hold types
 

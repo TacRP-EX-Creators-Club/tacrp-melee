@@ -20,18 +20,15 @@ SWEP.WorldModel = "models/weapons/tacint_melee/w_bamaslama.mdl"
 
 SWEP.Slot = 0
 
-SWEP.MeleeDamage = 44
-SWEP.MeleeAttackTime = 0.48
-SWEP.MeleeRange = 128
+SWEP.MeleeDamage = 45
+SWEP.MeleeAttackTime = 0.45
 SWEP.MeleeAttackMissTime = 0.57
 
-SWEP.MeleeDamageType = DMG_CLUB
+SWEP.MeleeDamageType = DMG_SLASH
 
-SWEP.MeleeThrowForce = 1200
-
-SWEP.MeleePerkStr = 0.48
+SWEP.MeleePerkStr = 0.55
 SWEP.MeleePerkAgi = 0.45
-SWEP.MeleePerkInt = 0.4
+SWEP.MeleePerkInt = 0.45
 
 // hold types
 
