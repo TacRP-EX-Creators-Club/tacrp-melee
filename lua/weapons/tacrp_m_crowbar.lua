@@ -35,8 +35,8 @@ SWEP.MeleePerkInt = 0.35
 
 // hold types
 
-SWEP.HoldType = "melee"
-SWEP.HoldTypeSprint = "knife"
+SWEP.HoldType = "melee2"
+SWEP.HoldTypeSprint = "melee"
 
 SWEP.GestureShoot = ACT_HL2MP_GESTURE_RANGE_ATTACK_PISTOL
 SWEP.GestureReload = ACT_HL2MP_GESTURE_RELOAD_PISTOL
