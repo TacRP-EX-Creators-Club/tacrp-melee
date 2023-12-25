@@ -20,7 +20,7 @@ SWEP.WorldModel = "models/weapons/tacint_melee/w_shovel.mdl"
 
 SWEP.Slot = 0
 
-SWEP.MeleeDamage = 50
+SWEP.MeleeDamage = 52
 SWEP.MeleeAttackTime = 0.6
 SWEP.MeleeRange = 90
 SWEP.MeleeAttackMissTime = 0.7
@@ -30,8 +30,8 @@ SWEP.MeleeDamageType = DMG_CLUB
 SWEP.MeleeThrowForce = 900
 
 SWEP.MeleePerkStr = 0.5
-SWEP.MeleePerkAgi = 0.2
-SWEP.MeleePerkInt = 0.7
+SWEP.MeleePerkAgi = 0.25
+SWEP.MeleePerkInt = 0.65
 
 // hold types
 
