@@ -13,7 +13,7 @@ SWEP.SubCatType = "8Melee Weapon"
 SWEP.Description = "Aluminum baseball bat, good for hitting home runs or cracking skulls."
 SWEP.Description_Quote = "Pop quiz! How long's it take to beat a moron to death?"
 
-SWEP.Credits = "Model & Texture: Yogensia"
+SWEP.Credits = "Model & Texture: Yogensia \nAnimations: Lazarus"
 
 SWEP.ViewModel = "models/weapons/tacint_melee/v_bat.mdl"
 SWEP.WorldModel = "models/weapons/tacint_melee/w_bat.mdl"
@@ -41,14 +41,14 @@ SWEP.HoldTypeSprint = "melee"
 SWEP.GestureBash = ACT_HL2MP_GESTURE_RANGE_ATTACK_MELEE
 SWEP.GestureBash2 = ACT_HL2MP_GESTURE_RANGE_ATTACK_MELEE
 
-SWEP.PassiveAng = Angle(-7.5, 0, 5)
-SWEP.PassivePos = Vector(3, 0, -10)
+SWEP.PassiveAng = Angle(-0, 0, 0)
+SWEP.PassivePos = Vector(0, 1, -1)
 
 SWEP.SprintAng = Angle(0, 0, 0)
 SWEP.SprintPos = Vector(2, 0, -5)
 
-SWEP.CustomizeAng = Angle(0, 25, 0)
-SWEP.CustomizePos = Vector(2, 0, -12)
+SWEP.CustomizeAng = Angle(25, 20, 0)
+SWEP.CustomizePos = Vector(-5, 0, -5)
 
 SWEP.SprintMidPoint = {
     Pos = Vector(2, 0, -5),
@@ -61,8 +61,8 @@ local path = "tacint_shark/weapons/melee/"
 
 SWEP.AnimationTranslationTable = {
     ["deploy"] = "deploy",
-    ["melee"] = {"slash_left1", "slash_left2", "slash_right1", "slash_right2"},
-    ["melee2"] = {"slash_forward1", "slash_forward2"},
+    ["melee"] = {"slash_left1", "slash_right1"},
+    ["melee2"] = "slash_forward1",
     ["meleethrow"] = {"knifethrow"},
 }
 
