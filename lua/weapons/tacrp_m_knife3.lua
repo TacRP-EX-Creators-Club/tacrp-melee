@@ -8,7 +8,7 @@ SWEP.PrintName = "Task Force Knife"
 SWEP.Category = "Tactical RP (Special)"
 
 SWEP.SubCatTier = "9Special"
-SWEP.SubCatType = "8Melee Weapon"
+SWEP.SubCatType = "8Bladed Melee"
 
 SWEP.Description = "Oversized knife with a serrated edge and a curved handle, a bit overkill for what's supposed to be a military knife."
 SWEP.Description_Quote = "MOM GET THE CAMERA!!"

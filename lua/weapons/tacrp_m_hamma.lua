@@ -8,7 +8,7 @@ SWEP.PrintName = "Hammer"
 SWEP.Category = "Tactical RP (Special)"
 
 SWEP.SubCatTier = "9Special"
-SWEP.SubCatType = "8Melee Weapon"
+SWEP.SubCatType = "8Blunt Melee"
 
 SWEP.Description = "Common craftsman tool for inserting nails into wood or securing objects in place."
 SWEP.Description_Quote = "When you have a hammer, everything looks like a nail..."

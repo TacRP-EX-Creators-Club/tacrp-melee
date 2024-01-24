@@ -8,7 +8,7 @@ SWEP.PrintName = "Kukri"
 SWEP.Category = "Tactical RP (Special)"
 
 SWEP.SubCatTier = "9Special"
-SWEP.SubCatType = "8Melee Weapon"
+SWEP.SubCatType = "8Bladed Melee"
 
 SWEP.Description = "Short knife with a curved blade, supposedly designed as such so it hooks onto targets and inflicts maximum damage."
 SWEP.Description_Quote = "Professionals have standards."

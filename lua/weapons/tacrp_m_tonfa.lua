@@ -8,7 +8,7 @@ SWEP.PrintName = "Police Baton"
 SWEP.Category = "Tactical RP (Special)"
 
 SWEP.SubCatTier = "9Special"
-SWEP.SubCatType = "8Melee Weapon"
+SWEP.SubCatType = "8Blunt Melee"
 
 SWEP.Description = "Specialized police baton with an angled handle for an alternative grip. Useful for putting down riots in failing \"democratic\" nations."
 

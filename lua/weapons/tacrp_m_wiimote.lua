@@ -8,7 +8,7 @@ SWEP.PrintName = "Nintendo Wii Remote"
 SWEP.Category = "Tactical RP (Special)"
 
 SWEP.SubCatTier = "9Special"
-SWEP.SubCatType = "8Melee Weapon"
+SWEP.SubCatType = "8Blunt Melee"
 
 SWEP.Description = "An iconic game controller with revolutionary motion controls. \nCareful!  Neglecting to wear the wrist strap could lead to injury."
 

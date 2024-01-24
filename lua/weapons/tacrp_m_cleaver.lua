@@ -8,7 +8,7 @@ SWEP.PrintName = "Meat Cleaver"
 SWEP.Category = "Tactical RP (Special)"
 
 SWEP.SubCatTier = "9Special"
-SWEP.SubCatType = "8Melee Weapon"
+SWEP.SubCatType = "8Bladed Melee"
 
 SWEP.Description = "Large, sturdy blade made for chopping meat, be that animal meat or human meat. Has innate Lifesteal."
 

@@ -8,7 +8,7 @@ SWEP.PrintName = "Extrema Ratio Harpoon"
 SWEP.Category = "Tactical RP (Special)"
 
 SWEP.SubCatTier = "9Special"
-SWEP.SubCatType = "8Melee Weapon"
+SWEP.SubCatType = "8Bladed Melee"
 
 SWEP.Description = "Thin-bladed knife with serrations on the back edge for extra deep penetration."
 

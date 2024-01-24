@@ -8,7 +8,7 @@ SWEP.PrintName = "Louisville Slugger TPX"
 SWEP.Category = "Tactical RP (Special)"
 
 SWEP.SubCatTier = "9Special"
-SWEP.SubCatType = "8Melee Weapon"
+SWEP.SubCatType = "8Blunt Melee"
 
 SWEP.Description = "Aluminum baseball bat, good for hitting home runs or cracking skulls."
 SWEP.Description_Quote = "Pop quiz! How long's it take to beat a moron to death?"

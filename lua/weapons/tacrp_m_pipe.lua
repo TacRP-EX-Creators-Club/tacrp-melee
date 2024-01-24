@@ -8,7 +8,7 @@ SWEP.PrintName = "Lead Pipe"
 SWEP.Category = "Tactical RP (Special)"
 
 SWEP.SubCatTier = "9Special"
-SWEP.SubCatType = "8Melee Weapon"
+SWEP.SubCatType = "8Blunt Melee"
 
 SWEP.Description = "Sturdy lead water pipe.  Despite not being designed for any kind of harm-doing, hitting someone with it does quite a lot of harm."
 

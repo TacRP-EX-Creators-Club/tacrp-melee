@@ -8,7 +8,7 @@ SWEP.PrintName = "Tracker Knife"
 SWEP.Category = "Tactical RP (Special)"
 
 SWEP.SubCatTier = "9Special"
-SWEP.SubCatType = "8Melee Weapon"
+SWEP.SubCatType = "8Bladed Melee"
 
 SWEP.Description = "Oversized gut knife designed for multiple hunting utilities, one of which is, conveniently, slicing open human targets."
 

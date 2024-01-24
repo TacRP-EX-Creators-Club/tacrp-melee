@@ -8,7 +8,7 @@ SWEP.PrintName = "Shovel"
 SWEP.Category = "Tactical RP (Special)"
 
 SWEP.SubCatTier = "9Special"
-SWEP.SubCatType = "8Melee Weapon"
+SWEP.SubCatType = "8Blunt Melee"
 
 SWEP.Description = "An old army shovel, designed to quickly dig trenches. Works great as a crude melee weapon, having both a blunt face and a sharp edge."
 SWEP.Description_Quote = "Maggots!"

@@ -8,7 +8,7 @@ SWEP.PrintName = "Glock Feldmesser 78"
 SWEP.Category = "Tactical RP (Special)"
 
 SWEP.SubCatTier = "9Special"
-SWEP.SubCatType = "8Melee Weapon"
+SWEP.SubCatType = "8Bladed Melee"
 
 SWEP.Description = "A sturdy field knife with a firm grip, designed for use within the Austrian Jagdkommando."
 SWEP.Description_Quote = "Yes, this is the same Glock that makes pistols."

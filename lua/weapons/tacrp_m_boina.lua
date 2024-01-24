@@ -8,7 +8,7 @@ SWEP.PrintName = "Cudeman Boina Verde"
 SWEP.Category = "Tactical RP (Special)"
 
 SWEP.SubCatTier = "9Special"
-SWEP.SubCatType = "8Melee Weapon"
+SWEP.SubCatType = "8Bladed Melee"
 
 SWEP.Description = "Sturdy, oversized survival knife. \"Boina verde\" is Spanish for \"green beret,\" an attempt to market the knife as military-grade."
 

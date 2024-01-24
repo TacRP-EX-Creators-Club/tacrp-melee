@@ -8,7 +8,7 @@ SWEP.PrintName = "Bowie Knife"
 SWEP.Category = "Tactical RP (Special)"
 
 SWEP.SubCatTier = "9Special"
-SWEP.SubCatType = "8Melee Weapon"
+SWEP.SubCatType = "8Bladed Melee"
 
 SWEP.Description = "A classic knife design made specifically for dueling, back when knife fights were a form of entertainment. \nRemains popular due to its association with overly-masculine 80's action movie stars."
 

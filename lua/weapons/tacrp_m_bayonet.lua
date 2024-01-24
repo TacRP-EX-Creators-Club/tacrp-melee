@@ -8,7 +8,7 @@ SWEP.PrintName = "M9 Phrobis III"
 SWEP.Category = "Tactical RP (Special)"
 
 SWEP.SubCatTier = "9Special"
-SWEP.SubCatType = "8Melee Weapon"
+SWEP.SubCatType = "8Bladed Melee"
 
 SWEP.Description = "Military standard-issue knife that can be mounted on a weapon as a bayonet. Nothing stopping you from using it like a normal knife, however."
 

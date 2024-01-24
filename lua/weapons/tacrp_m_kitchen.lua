@@ -8,7 +8,7 @@ SWEP.PrintName = "Kitchen Knife"
 SWEP.Category = "Tactical RP (Special)"
 
 SWEP.SubCatTier = "9Special"
-SWEP.SubCatType = "8Melee Weapon"
+SWEP.SubCatType = "8Bladed Melee"
 
 SWEP.Description = "Plain, simple kitchen knife. Easy to acquire and adequately lethal, knives like these are popular among street gangs and psychopaths. Has innate Lifesteal."
 SWEP.Description_Quote = "Oi mate, you gotta license for that knife?"

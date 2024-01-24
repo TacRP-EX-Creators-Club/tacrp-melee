@@ -8,7 +8,7 @@ SWEP.PrintName = "Gerber LMF Infantry"
 SWEP.Category = "Tactical RP (Special)"
 
 SWEP.SubCatTier = "9Special"
-SWEP.SubCatType = "8Melee Weapon"
+SWEP.SubCatType = "8Bladed Melee"
 
 SWEP.Description = "Compact knife for survival situations, such as gutting fish, carving wood or gutting and carving an enemy."
 

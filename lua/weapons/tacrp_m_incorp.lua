@@ -8,7 +8,7 @@ SWEP.PrintName = "Viper Knife"
 SWEP.Category = "Tactical RP (Special)"
 
 SWEP.SubCatTier = "9Special"
-SWEP.SubCatType = "8Melee Weapon"
+SWEP.SubCatType = "8Bladed Melee"
 
 SWEP.Description = "Flashy flip knife with a premium stainless finish and woodgrain handle."
 

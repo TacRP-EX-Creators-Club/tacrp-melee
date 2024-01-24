@@ -8,7 +8,7 @@ SWEP.PrintName = "The Classic"
 SWEP.Category = "Tactical RP (Special)"
 
 SWEP.SubCatTier = "9Special"
-SWEP.SubCatType = "8Melee Weapon"
+SWEP.SubCatType = "8Bladed Melee"
 
 SWEP.Description = "A classic knife design from the 90's, before fancy patterns and ludicrous prices were all the rage."
 SWEP.Description_Quote = "Alright, let's move out!"

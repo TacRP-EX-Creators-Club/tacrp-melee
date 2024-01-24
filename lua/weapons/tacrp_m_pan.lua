@@ -8,7 +8,7 @@ SWEP.PrintName = "Frying Pan"
 SWEP.Category = "Tactical RP (Special)"
 
 SWEP.SubCatTier = "9Special"
-SWEP.SubCatType = "8Melee Weapon"
+SWEP.SubCatType = "8Blunt Melee"
 
 SWEP.Description = "Stovetop cooking device made of solid cast-iron. Made iconic as a weapon through slapstick and cartoons."
 
