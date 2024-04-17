@@ -11,7 +11,7 @@ SWEP.SubCatTier = "9Special"
 SWEP.SubCatType = "8Blunt Melee"
 
 SWEP.Description = "All-purpose utility tool meant for prying things open; crates, safes, doors and humans!"
-SWEP.Description_Quote = "I think you dropped this back in Black Mesa."
+SWEP.Description_Quote = "\"I think you dropped this back in Black Mesa.\""
 
 SWEP.Credits = "Assets: Counter-Strike: Online 2"
 

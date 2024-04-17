@@ -11,7 +11,7 @@ SWEP.SubCatTier = "9Special"
 SWEP.SubCatType = "8Bladed Melee"
 
 SWEP.Description = "Oversized knife with a serrated edge and a curved handle, a bit overkill for what's supposed to be a military knife."
-SWEP.Description_Quote = "MOM GET THE CAMERA!!"
+SWEP.Description_Quote = "\"MOM GET THE CAMERA!!\""
 
 SWEP.Credits = "Model: Syncing \nTexture: Boba Fett"
 

@@ -11,7 +11,7 @@ SWEP.SubCatTier = "9Special"
 SWEP.SubCatType = "8Blunt Melee"
 
 SWEP.Description = "Aluminum baseball bat, good for hitting home runs or cracking skulls."
-SWEP.Description_Quote = "Pop quiz! How long's it take to beat a moron to death?"
+SWEP.Description_Quote = "\"Pop quiz! How long's it take to beat a moron to death?\""
 
 SWEP.Credits = "Model & Texture: Yogensia \nAnimations: Lazarus"
 

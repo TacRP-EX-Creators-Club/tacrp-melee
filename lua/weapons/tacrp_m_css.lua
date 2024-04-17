@@ -11,7 +11,7 @@ SWEP.SubCatTier = "9Special"
 SWEP.SubCatType = "8Bladed Melee"
 
 SWEP.Description = "A classic knife design from the 90's, before fancy patterns and ludicrous prices were all the rage."
-SWEP.Description_Quote = "Alright, let's move out!"
+SWEP.Description_Quote = "\"Alright, let's move out!\""
 
 SWEP.Credits = "Assets: Counter-Strike: Source"
 

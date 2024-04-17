@@ -11,7 +11,7 @@ SWEP.SubCatTier = "9Special"
 SWEP.SubCatType = "8Bladed Melee"
 
 SWEP.Description = "A bowie knife named after a cocktail, featuring a serrated back edge and a bayonet mount."
-SWEP.Description_Quote = "Did I say you could do that?"
+SWEP.Description_Quote = "\"Did I say you could do that?\""
 
 SWEP.Credits = "Model: Havok101 \nTexture: Millenia"
 
