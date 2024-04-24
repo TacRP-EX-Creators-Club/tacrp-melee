@@ -24,7 +24,7 @@ SWEP.MeleeDamage = 35
 SWEP.MeleeAttackTime = 0.4
 SWEP.MeleeAttackMissTime = 0.5
 
-SWEP.MeleeDamageType = DMG_CLUB
+SWEP.MeleeDamageType = DMG_SLASH
 
 SWEP.MeleeThrowForce = 1200
 
