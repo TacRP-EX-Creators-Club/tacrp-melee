@@ -41,8 +41,8 @@ SWEP.HoldTypeSprint = "melee"
 SWEP.GestureBash = ACT_HL2MP_GESTURE_RANGE_ATTACK_MELEE
 SWEP.GestureBash2 = ACT_HL2MP_GESTURE_RANGE_ATTACK_MELEE
 
-SWEP.PassiveAng = Angle(-0, 0, 0)
-SWEP.PassivePos = Vector(-1, 2, -1)
+SWEP.PassiveAng = Angle(0, -5, 5)
+SWEP.PassivePos = Vector(-2.75, 3, -1)
 
 SWEP.SprintAng = Angle(0, 0, 0)
 SWEP.SprintPos = Vector(2, 0, -5)
