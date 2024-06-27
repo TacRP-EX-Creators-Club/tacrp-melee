@@ -70,7 +70,7 @@ local path = "tacrp/weapons/knife/"
 
 SWEP.AnimationTranslationTable = {
     ["deploy"] = "deploy",
-    ["melee"] = {"slash_left1", "slash_left2", "slash_right1", "slash_right2"},
+    ["melee"] = {"slash_left1", "slash_left2", "slash_right1"},
     ["melee2"] = {"slash_forward1", "slash_forward2"},
     ["meleethrow"] = {"knifethrow"},
 }
