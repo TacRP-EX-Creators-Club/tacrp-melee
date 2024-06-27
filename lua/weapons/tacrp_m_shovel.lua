@@ -35,8 +35,8 @@ SWEP.MeleePerkInt = 0.65
 
 // hold types
 
-SWEP.HoldType = "melee"
-SWEP.HoldTypeSprint = "knife"
+SWEP.HoldType = "melee2"
+SWEP.HoldTypeSprint = "melee"
 
 SWEP.GestureShoot = ACT_HL2MP_GESTURE_RANGE_ATTACK_PISTOL
 SWEP.GestureReload = ACT_HL2MP_GESTURE_RELOAD_PISTOL
@@ -45,14 +45,14 @@ SWEP.GestureBash2 = ACT_HL2MP_GESTURE_RANGE_ATTACK_MELEE
 
 SWEP.MidAirSpreadPenalty = 0
 
-SWEP.PassiveAng = Angle(-4, 0, -1)
-SWEP.PassivePos = Vector(1, 0, -5)
+SWEP.PassiveAng = Angle(0, -5, 5)
+SWEP.PassivePos = Vector(-2.75, 3, -1)
 
 SWEP.SprintAng = Angle(0, 0, 0)
 SWEP.SprintPos = Vector(2, 0, -5)
 
-SWEP.CustomizeAng = Angle(0, 25, 0)
-SWEP.CustomizePos = Vector(2, 0, -12)
+SWEP.CustomizeAng = Angle(25, 20, 0)
+SWEP.CustomizePos = Vector(-5, 0, -5)
 
 SWEP.SprintMidPoint = {
     Pos = Vector(2, 0, -5),
@@ -71,8 +71,8 @@ local path1 = "tacint_shark/weapons/melee/"
 
 SWEP.AnimationTranslationTable = {
     ["deploy"] = "deploy",
-    ["melee"] = {"slash_left1", "slash_left2", "slash_right1", "slash_right2"},
-    ["melee2"] = {"slash_forward1", "slash_forward2"},
+    ["melee"] = {"slash_left1", "slash_right1"},
+    ["melee2"] = "slash_forward1",
     ["meleethrow"] = {"knifethrow"},
 }
 

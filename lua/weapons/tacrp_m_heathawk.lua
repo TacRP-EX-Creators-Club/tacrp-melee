@@ -45,14 +45,14 @@ SWEP.GestureBash2 = ACT_HL2MP_GESTURE_RANGE_ATTACK_MELEE
 
 SWEP.MidAirSpreadPenalty = 0
 
-SWEP.PassiveAng = Angle(-6, 0, 0)
-SWEP.PassivePos = Vector(4, 0, -7)
+SWEP.PassiveAng = Angle(0, -5, 5)
+SWEP.PassivePos = Vector(-2.75, 3, -1)
 
 SWEP.SprintAng = Angle(0, 0, 0)
 SWEP.SprintPos = Vector(2, 0, -5)
 
-SWEP.CustomizeAng = Angle(0, -5, 0)
-SWEP.CustomizePos = Vector(2, 0, -2)
+SWEP.CustomizeAng = Angle(25, 20, 0)
+SWEP.CustomizePos = Vector(-5, 0, -5)
 
 SWEP.SprintMidPoint = {
     Pos = Vector(2, 0, -5),
@@ -70,8 +70,8 @@ local path = "tacrp/weapons/knife/"
 
 SWEP.AnimationTranslationTable = {
     ["deploy"] = "deploy",
-    ["melee"] = "slash_left1",
-    ["melee2"] = {"slash_forward1", "slash_forward2"},
+    ["melee"] = {"slash_left1", "slash_right1"},
+    ["melee2"] = "slash_forward1",
     ["meleethrow"] = {"knifethrow"},
 }
 
