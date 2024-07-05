@@ -10,7 +10,8 @@ SWEP.Category = "Tactical RP (Special)"
 SWEP.SubCatTier = "9Special"
 SWEP.SubCatType = "8Blunt Melee"
 
-SWEP.Description = "Sturdy lead water pipe.  Despite not being designed for any kind of harm-doing, hitting someone with it does quite a lot of harm."
+SWEP.Description = "Sturdy lead water pipe. Despite not being designed for any kind of harm-doing, hitting someone with it does quite a lot of harm."
+SWEP.Description_Quote = "\"OH SHIT!! Too late!!\""
 
 SWEP.Credits = "Assets: No More Room in Hell"
 
