@@ -26,7 +26,7 @@ SWEP.MeleeDelay = 0.1
 
 SWEP.MeleeDamageType = DMG_CLUB
 
-SWEP.MeleeThrowForce = 1200
+SWEP.MeleeThrowForce = 5000
 
 SWEP.MeleePerkStr = 0.3
 SWEP.MeleePerkAgi = 0.6
