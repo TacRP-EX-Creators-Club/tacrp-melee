@@ -11,6 +11,7 @@ SWEP.SubCatTier = "9Special"
 SWEP.SubCatType = "8Bladed Melee"
 
 SWEP.Description = "Modernized tomahawk designed for combat. Aerodynamic design can be thrown far."
+SWEP.Description_Quote = "Scalper + Bank Shot + First Blood + Longshot" -- Call of Duty: Black Ops 1 "medals" recieved for a cross map tomahawk kill at the start of a match
 
 SWEP.Credits = "Model & Texture: Yogensia"
 

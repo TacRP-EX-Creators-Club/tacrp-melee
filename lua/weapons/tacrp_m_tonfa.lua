@@ -11,6 +11,7 @@ SWEP.SubCatTier = "9Special"
 SWEP.SubCatType = "8Blunt Melee"
 
 SWEP.Description = "Specialized police baton with an angled handle for an alternative grip. Useful for putting down riots in failing \"democratic\" nations."
+SWEP.Description_Quote = "\"You call this resisting arrest?! We call this a difficulty tweak!\"" -- PAYDAY 2 (2015)
 
 SWEP.Credits = "Assets: Left 4 Dead 2"
 

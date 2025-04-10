@@ -11,6 +11,7 @@ SWEP.SubCatTier = "9Special"
 SWEP.SubCatType = "8Blunt Melee"
 
 SWEP.Description = "Stovetop cooking device made of solid cast-iron. Made iconic as a weapon through slapstick and cartoons."
+SWEP.Description_Quote = "CLANG CLANG CLANG CLANG CLANG CLANG"
 
 SWEP.Credits = "Assets: Left 4 Dead 2"
 
