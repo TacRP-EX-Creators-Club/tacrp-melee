@@ -11,6 +11,7 @@ SWEP.SubCatTier = "9Special"
 SWEP.SubCatType = "8Bladed Melee"
 
 SWEP.Description = "Flashy flip knife with a premium stainless finish and woodgrain handle."
+SWEP.Description_Quote = "A quality knife, no doubt."
 
 SWEP.Credits = "Model & Texture: Teh Snake"
 

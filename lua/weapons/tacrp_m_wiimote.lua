@@ -10,7 +10,8 @@ SWEP.Category = "Tactical RP (Special)"
 SWEP.SubCatTier = "9Special"
 SWEP.SubCatType = "8Blunt Melee"
 
-SWEP.Description = "An iconic game controller with revolutionary motion controls. \nCareful!  Neglecting to wear the wrist strap could lead to injury."
+SWEP.Description = "An iconic controller with revolutionary motion controls.\nCareful! Neglecting to wear the wrist strap could lead to injury or property damage."
+SWEP.Description_Quote = "You're Out!"
 
 SWEP.Credits = "Model & Texture: Mr. Pickle"
 

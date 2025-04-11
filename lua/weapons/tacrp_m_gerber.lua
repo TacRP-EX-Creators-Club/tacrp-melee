@@ -12,6 +12,7 @@ SWEP.SubCatTier = "9Special"
 SWEP.SubCatType = "8Bladed Melee"
 
 SWEP.Description = "Compact knife for survival situations, such as gutting fish, carving wood or gutting and carving an enemy."
+SWEP.Description_Quote = "No, not the same company that makes baby food."
 
 SWEP.Credits = "Model: Macaroane \nTexture: Blackfire"
 

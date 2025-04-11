@@ -10,7 +10,8 @@ SWEP.Category = "Tactical RP (Special)"
 SWEP.SubCatTier = "9Special"
 SWEP.SubCatType = "8Bladed Melee"
 
-SWEP.Description = "Axe-shaped MS weapon scaled down to human size.\nThe original utilizes a superheated edge that cuts through metal like butter, but this replica only has a glowing sticker attached to a metal blade."
+SWEP.Description = "Axe-shaped MS weapon scaled down to human size.\nThe original utilizes a superheated edge to cut through metal like butter, but this replica only has a glowing decal."
+SWEP.Description_Quote = "The melee weapon of choice for the MS-06 Zaku II."
 
 SWEP.Credits = "Model & Texture: Amouro"
 

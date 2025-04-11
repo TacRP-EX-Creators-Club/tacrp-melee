@@ -10,7 +10,8 @@ SWEP.Category = "Tactical RP (Special)"
 SWEP.SubCatTier = "9Special"
 SWEP.SubCatType = "8Blunt Melee"
 
-SWEP.Description = "Sturdy wrench designed for tightening water and gas pipes.  All-iron construction makes it quite the blunt weapon."
+SWEP.Description = "Sturdy wrench designed for tightening water and gas pipes. All-iron construction makes it quite the blunt weapon."
+SWEP.Description_Quote = "When someone says \"killer service\", they don't mean THIS!" -- Reference to a 2009 short film literally named Pipe Wrench
 
 SWEP.Credits = "Assets: Counter-Strike: Online 2"
 

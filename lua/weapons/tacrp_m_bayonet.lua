@@ -11,6 +11,7 @@ SWEP.SubCatTier = "9Special"
 SWEP.SubCatType = "8Bladed Melee"
 
 SWEP.Description = "Military standard-issue knife that can be mounted on a weapon as a bayonet. Nothing stopping you from using it like a normal knife, however."
+SWEP.Description_Quote = "Un-fix bayonets! ...wait what?"
 
 SWEP.Credits = "Assets: BrainBread 2"
 

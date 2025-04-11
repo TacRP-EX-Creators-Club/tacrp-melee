@@ -10,7 +10,8 @@ SWEP.Category = "Tactical RP (Special)"
 SWEP.SubCatTier = "9Special"
 SWEP.SubCatType = "8Bladed Melee"
 
-SWEP.Description = "A classic knife design made specifically for dueling, back when knife fights were a form of entertainment. \nRemains popular due to its association with overly-masculine 80's action movie stars."
+SWEP.Description = "A classic fixed-blade knife design made for dueling. \nRemains popular due to its association with overly-masculine 80's action movie stars."
+SWEP.Description_Quote = "I felt there was something terribly ambiguous about the name." -- From an interview on how David Bowie chose the name "Bowie".
 
 SWEP.Credits = "Model: fallschirmjager \nTexture: HellSpike & EinHain"
 

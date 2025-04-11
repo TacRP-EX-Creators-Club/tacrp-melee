@@ -11,6 +11,7 @@ SWEP.SubCatTier = "9Special"
 SWEP.SubCatType = "8Bladed Melee"
 
 SWEP.Description = "Large, sturdy blade made for chopping meat, be that animal meat or human meat. Has innate Lifesteal."
+SWEP.Description_Quote = "\"A little of the ol' 'chop-chop'!\"" -- Sniper TF2
 
 SWEP.Credits = "Assets: Warface"
 

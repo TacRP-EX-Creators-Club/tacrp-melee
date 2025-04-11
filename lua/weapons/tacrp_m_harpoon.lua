@@ -11,6 +11,7 @@ SWEP.SubCatTier = "9Special"
 SWEP.SubCatType = "8Bladed Melee"
 
 SWEP.Description = "Thin-bladed knife with serrations on the back edge for extra deep penetration."
+SWEP.Description_Quote = "Stab, stab, stab, and stab some more!" -- came up on the spot because I can't find anything about this specific knife
 
 SWEP.Credits = "Model: Warfrog \nTexture: kannoe"
 

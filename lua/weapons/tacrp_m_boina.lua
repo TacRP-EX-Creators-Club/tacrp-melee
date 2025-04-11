@@ -10,7 +10,8 @@ SWEP.Category = "Tactical RP (Special)"
 SWEP.SubCatTier = "9Special"
 SWEP.SubCatType = "8Bladed Melee"
 
-SWEP.Description = "Sturdy, oversized survival knife. \"Boina verde\" is Spanish for \"green beret,\" an attempt to market the knife as military-grade."
+SWEP.Description = "Sturdy, oversized survival knife. \n\"Boina verde\" is Spanish for \"green beret,\" an attempt to market the knife as military-grade."
+SWEP.Description_Quote = "Actually a pretty good knife, despite the false \"military-grade\" claims."
 
 SWEP.Credits = "Model & Texture: Shortez"
 
