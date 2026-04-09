@@ -1,0 +1,151 @@
+L = {} -- Swedish Content Strings by Moka
+
+///////////////////// -- [[ Brute Force ]] --
+-- Weapons
+ws = "tacrp_m_"
+w = ws .. "bamaslama"
+L["wep." .. w .. ".name"] = "Alabama Slammer"
+L["wep." .. w .. ".desc"] = "En bowie-kniv döpt efter en cocktail. Har en sågtandad bakre kant och bajonettfäste."
+L["wep." .. w .. ".desc.quote"] = "\"Sade jag att du kunde göra det där?\""
+L["wep." .. w .. ".credits"] = "Modell: Havok101 \nTexturer: Millenia"
+
+w = ws .. "bat"
+L["wep." .. w .. ".name.full"] = "Loisville Slugger TPX"
+L["wep." .. w .. ".name"] = "Slugger"
+L["wep." .. w .. ".desc"] = "Aluminium basebollträ, perfekt att slå \"home runs\" eller skallar."
+L["wep." .. w .. ".desc.quote"] = "\"Popquiz! Hur länge tar det att slå en dumskalle till döds?\""
+L["wep." .. w .. ".credits"] = "Modell & Texturer: Yogensia \nAnimationer: Lazarus"
+
+w = ws .. "bayonet"
+L["wep." .. w .. ".name"] = "M9 Phrobis III"
+L["wep." .. w .. ".desc"] = "Militärstandard kniv som kan monteras på vapen som en bajonett. Inget som hindrar dig att använda den som en normal kniv dock."
+L["wep." .. w .. ".credits"] = "Tillgångar: BrainBread 2"
+
+w = ws .. "boina"
+L["wep." .. w .. ".name"] = "Cudeman Boina Verde"
+L["wep." .. w .. ".desc"] = "Stadig, överdimensionerad överlevnadskniv. \"Boina verde\" är spanskt för \"grön basker\", ett försök att marknadsföra kniven som militärklass."
+L["wep." .. w .. ".credits"] = "Modell & Texturer: Shortez"
+
+w = ws .. "cleaver"
+L["wep." .. w .. ".name"] = "Köttyxa"
+L["wep." .. w .. ".desc"] = "Stor och kraftigt blad gjort för att hugga kött, antingen djur eller mänskligt kött. Har inbyggt Livstjuv."
+L["wep." .. w .. ".credits"] = "Tillgångar: Warface"
+
+w = ws .. "crowbar"
+L["wep." .. w .. ".name"] = "Kofot"
+L["wep." .. w .. ".desc"] = "Mångsidigt verktyg gjord för att få upp grejer; lådor, kassaskåp, dörrar och människor!"
+L["wep." .. w .. ".desc.quote"] = "\"Tror att du tappade den här där borta i Black Mesa.\""
+L["wep." .. w .. ".credits"] = "Tillgångar: Counter-Strike: Online 2"
+
+w = ws .. "css"
+L["wep." .. w .. ".name"] = "Klassikern"
+L["wep." .. w .. ".desc"] = "En klassisk knivdesign från 90-talet innan snygga mönster och galna priser var normalt."
+L["wep." .. w .. ".desc.quote"] = "\"Okej, nu kör vi!\""
+L["wep." .. w .. ".credits"] = "Tillgångar: Counter-Strike: Source"
+
+w = ws .. "fasthawk"
+L["wep." .. w .. ".name"] = "SOG Fasthawk"
+L["wep." .. w .. ".desc"] = "Modern tomahawk gjord för strid. Aerodynamisk design kan kastas långt."
+L["wep." .. w .. ".credits"] = "Modell & Texturer: Yogensia"
+
+w = ws .. "gerber"
+L["wep." .. w .. ".name.full"] = "Gerber LMF Infantry"
+L["wep." .. w .. ".name"] = "LMF Infantry"
+L["wep." .. w .. ".desc"] = "Kompakt kniv för överlevnadssituationer, som att rensa fisk, snida träd, eller rensa och snida en fiende."
+L["wep." .. w .. ".credits"] = "Modell: Macaroane \nTexturer: Blackfire"
+
+w = ws .. "glock"
+L["wep." .. w .. ".name.full"] = "Glock Feldmesser 78"
+L["wep." .. w .. ".name"] = "Feldmesser 78"
+L["wep." .. w .. ".desc"] = "Kraftig fältkniv med ett fast grepp, designad för användning av österrikes Jagdkommando."
+L["wep." .. w .. ".desc.quote"] = "Ja, det är samma Glock som gör pistolerna."
+L["wep." .. w .. ".credits"] = "Modell: HellSpike \nTexturer: Dr. Hubbler"
+
+w = ws .. "hamma"
+L["wep." .. w .. ".name"] = "Hammare"
+L["wep." .. w .. ".desc"] = "Vanligt arbetsverktyg för att få in spikar i träd eller fästa grejer på plats."
+L["wep." .. w .. ".desc.quote"] = "Allt ser ut som en spik när du har en hammare..."
+L["wep." .. w .. ".credits"] = "Modell: FearFisch & sHiBaN \nTexturer: Meltdown, sHiBaN & Kitteh"
+
+w = ws .. "harpoon"
+L["wep." .. w .. ".name.full"] = "Extrema Ratio Harpun"
+L["wep." .. w .. ".name"] = "Harpun"
+L["wep." .. w .. ".desc"] = "Kniv med tunt blad och serrationer på bakre kanten för extra djup penetration."
+L["wep." .. w .. ".credits"] = "Modell: Warfrog \nTexturer: kannoe"
+
+w = ws .. "heathawk"
+L["wep." .. w .. ".name"] = "Heat Hawk"
+L["wep." .. w .. ".desc"] = "Yxa-format MS-vapen skalad ned till människostorlek. \nOriginalet använder en överhettad kant som går igenom metall som smör, men denna replika har endast ett överhettat klistermärke på metallen."
+L["wep." .. w .. ".credits"] = "Modell & Texturer: Amouro"
+
+w = ws .. "incorp"
+L["wep." .. w .. ".name"] = "Huggormskniv"
+L["wep." .. w .. ".desc"] = "En schysst fällkniv med premium rostfritt utseende och träkornhandtag."
+L["wep." .. w .. ".credits"] = "Modell & Texturer: Teh Snake"
+
+w = ws .. "kitchen"
+L["wep." .. w .. ".name"] = "Kökskniv"
+L["wep." .. w .. ".desc"] = "Väldigt simpel kökskniv. Lätt att få tag på och tillräckligt dödlig, knivar som dessa är populära bland gängkriminella och psykopater. Har inbyggd Livstjuv."
+L["wep." .. w .. ".desc.quote"] = "Polar'n, har du tillåtelse för den kniven?"
+L["wep." .. w .. ".credits"] = "Modell: Kitteh \nTexturer: Rochenback"
+
+w = ws .. "knife3"
+L["wep." .. w .. ".name"] = "Task Force-Kniv"
+L["wep." .. w .. ".desc"] = "Överdimensionerad kniv med sågtandat blad och böjt handtag, lite överdrivet då det ska vara en militärkniv."
+L["wep." .. w .. ".desc.quote"] = "\"MAMMA HÄMTA KAMERAN!!\""
+L["wep." .. w .. ".credits"] = "Modell: Syncing \nTexturer: Boba Fett"
+
+w = ws .. "kukri"
+L["wep." .. w .. ".name"] = "Kukri"
+L["wep." .. w .. ".desc"] = "Kort kniv med böjt handtag, speciellt gjord så den fångar måltavlor och gör maximal skada."
+L["wep." .. w .. ".desc.quote"] = "\"Proffs har levnadsstandard.\""
+L["wep." .. w .. ".credits"] = "Modell: Loyen \nTexturer: Pain_Agent"
+
+w = ws .. "machete"
+L["wep." .. w .. ".name"] = "Machete"
+L["wep." .. w .. ".desc"] = "Mångsidigt blad som kan användas som jordbruksredskap, krigsvapen eller navigationshjälp när du är djupt i buskarna."
+L["wep." .. w .. ".credits"] = "Tillgångar: BrainBread 2"
+
+w = ws .. "pan"
+L["wep." .. w .. ".name"] = "Stekpanna"
+L["wep." .. w .. ".desc"] = "Köksredskap till spisen gjord av gjutjärn. Välkänd som ett vapen genom film och tecknade serier."
+L["wep." .. w .. ".credits"] = "Tillgångar: Left 4 Dead 2"
+
+w = ws .. "pipe"
+L["wep." .. w .. ".name"] = "Blyrör"
+L["wep." .. w .. ".desc"] = "Stabilt blyvattenrör. Trots att den inte gjordes för att göra ont, om du träffar någon med den så gör det ganska ont."
+L["wep." .. w .. ".desc.quote"] = "\"FAN!! För sent!!\""
+L["wep." .. w .. ".credits"] = "Tillgångar: No More Room in Hell"
+
+w = ws .. "rambo"
+L["wep." .. w .. ".name"] = "Bowie-Kniv"
+L["wep." .. w .. ".desc"] = "Klassisk knivdesign gjord specifikt för duellering då knivslagsmål sågs som en form av underhållning. \nFortsätter vara populär tack vare dess sammanslutning med alltför maskulint 80-tals action filmstjärnor."
+L["wep." .. w .. ".credits"] = "Modell: fallschirmjager \nTexturer: HellSpike & EinHain"
+
+w = ws .. "shovel"
+L["wep." .. w .. ".name"] = "Spade"
+L["wep." .. w .. ".desc"] = "En gammal arméspade, gjord för att snabbt gräva fram skyttegravar. Fungerar bra som ett grovt närstridsvapen, då den har både en trubbig sida och en vass kant."
+L["wep." .. w .. ".desc.quote"] = "\"Maskar!\""
+L["wep." .. w .. ".credits"] = "Tillgångar: Day of Defeat: Source"
+
+w = ws .. "tonfa"
+L["wep." .. w .. ".name"] = "Polis Batong"
+L["wep." .. w .. ".desc"] = "Speciell polis batong med ett vinklat handtag för alternativt grepp. Användbar för att få slut på kravaller i misslyckande \"demokratiska\" länder."
+L["wep." .. w .. ".credits"] = "Tillgångar: Left 4 Dead 2"
+
+w = ws .. "tracker"
+L["wep." .. w .. ".name"] = "Spårkniv"
+L["wep." .. w .. ".desc"] = "Överdimensionerad tarmkniv gjord som flertal jaktverktyg, en av dem är, typiskt sett, att skära upp människomål."
+L["wep." .. w .. ".credits"] = "Modell: Cartman \nTexturer: Henron & Fxdarkloki"
+
+w = ws .. "wiimote"
+L["wep." .. w .. ".name.full"] = "Nintendo Wii-Kontroller"
+L["wep." .. w .. ".name"] = "Wii-Kontroll"
+L["wep." .. w .. ".desc"] = "En ikonisk spelkontroller med revolutionär rörelsekontroll. \nFörsiktigt! Om du glömmer att ha på handledsremmen kan det leda till skador."
+L["wep." .. w .. ".desc.quote"] = "Utslängd!"
+L["wep." .. w .. ".credits"] = "Modell & Texturer: Mr. Pickle"
+
+w = ws .. "wrench"
+L["wep." .. w .. ".name"] = "Rörtång"
+L["wep." .. w .. ".desc"] = "Stabil tång gjord för att täta till vatten- och gasrör. Konstruktion från heljärn gör den till ett bra trubbigt vapen."
+L["wep." .. w .. ".credits"] = "Tillgångar: Counter-Strike: Online 2"
