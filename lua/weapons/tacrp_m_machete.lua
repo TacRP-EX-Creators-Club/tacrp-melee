@@ -11,7 +11,7 @@ SWEP.SubCatTier = "9Special"
 SWEP.SubCatType = "8Bladed Melee"
 
 SWEP.Description = "Versatile blade that can be used as an agricultural tool, a weapon of war or as a navigational aid when deep in the bush."
-SWEP.Description_Quote = "ki ki ki... ma ma ma..."
+SWEP.Description_Quote = "ki ki ki... ma ma ma..." -- Friday the 13th (1980)
 
 SWEP.Credits = "Assets: BrainBread 2"
 

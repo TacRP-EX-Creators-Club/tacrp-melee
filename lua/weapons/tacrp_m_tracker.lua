@@ -11,7 +11,7 @@ SWEP.SubCatTier = "9Special"
 SWEP.SubCatType = "8Bladed Melee"
 
 SWEP.Description = "Oversized gut knife designed for multiple hunting utilities, one of which is, conveniently, slicing open human targets."
-SWEP.Description_Quote = "I never lose track of what is mine." -- Believe it or not, Zach D Films.
+SWEP.Description_Quote = "I never lose track of what is mine." -- Believe it or not, Zach D Films. Don't believe me? https://www.youtube.com/shorts/ShSD_fAzcGE
 
 SWEP.Credits = "Model: Cartman \nTexture: Henron & Fxdarkloki"
 

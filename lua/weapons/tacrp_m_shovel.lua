@@ -11,7 +11,7 @@ SWEP.SubCatTier = "9Special"
 SWEP.SubCatType = "8Blunt Melee"
 
 SWEP.Description = "An old army shovel, designed to quickly dig trenches. Works great as a crude melee weapon, having both a blunt face and a sharp edge."
-SWEP.Description_Quote = "\"Maggots!\""
+SWEP.Description_Quote = "\"Maggots!\"" -- Team Fortress 2 (2007)
 
 SWEP.Credits = "Assets: Day of Defeat: Source"
 

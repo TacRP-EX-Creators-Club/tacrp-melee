@@ -11,7 +11,7 @@ SWEP.SubCatTier = "9Special"
 SWEP.SubCatType = "8Bladed Melee"
 
 SWEP.Description = "Axe-shaped MS weapon scaled down to human size.\nThe original utilizes a superheated edge to cut through metal like butter, but this replica only has a glowing decal."
-SWEP.Description_Quote = "The melee weapon of choice for the MS-06 Zaku II."
+SWEP.Description_Quote = "The melee weapon of choice for the MS-06 Zaku II." -- Mobile Suit Gundam  (1979)
 
 SWEP.Credits = "Model & Texture: Amouro"
 
