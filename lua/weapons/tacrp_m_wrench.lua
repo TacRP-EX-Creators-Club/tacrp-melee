@@ -115,36 +115,3 @@ SWEP.Attachments = {
         DetachSound = "TacRP/weapons/flashlight_off.wav",
     },
 }
-
-SWEP.FreeAim = false
-
-SWEP.DrawCrosshair = true
-SWEP.DrawCrosshairInSprint = true
-SWEP.CrosshairStatic = true
-
-local function addsound(name, spath)
-    sound.Add({
-        name = name,
-        channel = 16,
-        volume = 1.0,
-        sound = spath
-    })
-end
-
-addsound("tacint_knife2.deploy", "tacrp/magtap.ogg")
-
-function SWEP:PrimaryAttack()
-    local stop = self:RunHook("Hook_PreShoot")
-    if stop then return end
-
-    self:Melee()
-    return
-end
-
-function SWEP:ThinkSprint()
-end
-
-function SWEP:ThinkSights()
-end
-
-SWEP.AutoSpawnable = false
