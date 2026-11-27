@@ -109,6 +109,7 @@ L["wep." .. w .. ".desc"] = "Wielofunkcyjny nóż maczety, chociaż większość
 w = ws .. "pan"
 L["wep." .. w .. ".name"] = "Patelnia"
 L["wep." .. w .. ".desc"] = "Naczynie do gotowania na kuchence wykonane z solidnego żeliwa. Stało się ikoniczną bronią dzięki slapstickowi i kreskówkom."
+L["wep." .. w .. ".desc.quote"] = "CLANG CLANG CLANG CLANG CLANG CLANG CLANG CLANG CLANG CLANG CLA-"
 -- L["wep." .. w .. ".credits"] = "Assets: Left 4 Dead 2"
 
 w = ws .. "pipe"

@@ -109,6 +109,7 @@ w = ws .. "machete"
 w = ws .. "pan"
 -- L["wep." .. w .. ".name"] = "Frying Pan"
 -- L["wep." .. w .. ".desc"] = "Stovetop cooking device made of solid cast-iron. Made iconic as a weapon through slapstick and cartoons."
+-- L["wep." .. w .. ".desc.quote"] = "CLANG CLANG CLANG CLANG CLANG CLANG CLANG CLANG CLANG CLANG CLA-"
 -- L["wep." .. w .. ".credits"] = "Assets: Left 4 Dead 2"
 
 w = ws .. "pipe"

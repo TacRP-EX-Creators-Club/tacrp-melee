@@ -109,6 +109,7 @@ L["wep." .. w .. ".credits"] = "Tillgångar: BrainBread 2"
 w = ws .. "pan"
 L["wep." .. w .. ".name"] = "Stekpanna"
 L["wep." .. w .. ".desc"] = "Köksredskap till spisen gjord av gjutjärn. Välkänd som ett vapen genom film och tecknade serier."
+L["wep." .. w .. ".desc.quote"] = "CLANG CLANG CLANG CLANG CLANG CLANG CLANG CLANG CLANG CLANG CLA-"
 L["wep." .. w .. ".credits"] = "Tillgångar: Left 4 Dead 2"
 
 w = ws .. "pipe"
