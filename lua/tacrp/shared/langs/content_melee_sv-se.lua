@@ -2,8 +2,8 @@ L = {} -- Swedish Content Strings by Moka
 
 ///////////////////// -- [[ Brute Force ]] --
 -- Weapons
-ws = "tacrp_m_"
-w = ws .. "bamaslama"
+local ws = "tacrp_m_"
+local w = ws .. "bamaslama"
 L["wep." .. w .. ".name"] = "Alabama Slammer"
 L["wep." .. w .. ".desc"] = "En bowie-kniv döpt efter en cocktail. Har en sågtandad bakre kant och bajonettfäste."
 L["wep." .. w .. ".desc.quote"] = "\"Sade jag att du kunde göra det där?\""

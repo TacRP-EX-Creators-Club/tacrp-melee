@@ -2,8 +2,8 @@ L = {} -- English Content Strings
 
 ///////////////////// -- [[ Brute Force ]] --
 -- Weapons
-ws = "tacrp_m_"
-w = ws .. "bamaslama"
+local ws = "tacrp_m_"
+local w = ws .. "bamaslama"
 L["wep." .. w .. ".name"] = "Alabama Slammer"
 L["wep." .. w .. ".desc"] = "A bowie knife named after a cocktail, featuring a serrated back edge and a bayonet mount."
 L["wep." .. w .. ".desc.quote"] = "\"Did I say you could do that?\""

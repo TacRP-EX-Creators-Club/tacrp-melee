@@ -2,8 +2,8 @@ L = {} -- Polish Content Strings by meerfi
 
 ///////////////////// -- [[ Brute Force ]] --
 -- Weapons
-ws = "tacrp_m_"
-w = ws .. "bamaslama"
+local ws = "tacrp_m_"
+local w = ws .. "bamaslama"
 -- L["wep." .. w .. ".name"] = "Alabama Slammer"
 L["wep." .. w .. ".desc"] = "Nóż bowie nazwany na cześć koktajlu, z ząbkowanym tylnym ostrzem i mocowaniem bagnetu."
 L["wep." .. w .. ".desc.quote"] = "\"Czy powiedziałem, że możesz to zrobić?\""
